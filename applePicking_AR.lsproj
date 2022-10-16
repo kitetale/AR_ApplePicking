@@ -3,7 +3,7 @@
     "document_id": "4evVZ8Gq5pE_HQFyuULN",
     "original_document_id": "uD8Mht1sQzFRghx9mVbo",
     "version": "29",
-    "lastChanged": "1665949938877",
+    "lastChanged": "1665951229117",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -56,6 +56,14 @@
                     ],
                     [
                         "Particles",
+                        "Smoke Particle Emitter Material"
+                    ],
+                    [
+                        "Particles",
+                        "black_circle"
+                    ],
+                    [
+                        "Particles",
                         "hand Particle Emitter Material"
                     ],
                     [
@@ -63,10 +71,8 @@
                         "sparkle"
                     ],
                     [
-                        "Text3D Default"
-                    ],
-                    [
-                        "Text3D Default 2"
+                        "Particles",
+                        "white_circle"
                     ],
                     [
                         "Textures"
@@ -177,6 +183,9 @@
                         "appleTree"
                     ],
                     [
+                        "apples"
+                    ],
+                    [
                         "apples",
                         "Meshes"
                     ],
@@ -210,9 +219,6 @@
                         "appleTree"
                     ],
                     [
-                        "left hand tracking"
-                    ],
-                    [
                         "particleAdd"
                     ]
                 ]
@@ -223,9 +229,9 @@
                 [
                     "1517446348227994:84813",
                     "1665862427100387:99584",
-                    "1665862541628632:108581",
                     "1665864410893355:243828",
                     "1665881046704312:144315",
+                    "1665882630543254:267643",
                     "1665894178884717:1537770"
                 ]
             ],
@@ -241,12 +247,12 @@
         "PreviewUiComponent": {
             "preview_descriptor": {
                 "is_capture": "0",
-                "camera_type": "2"
+                "camera_type": "1"
             },
             "show_snap_ui": "true",
             "show_sponsored_ui": "false",
             "preview_images_project_config": {
-                "back_preview_id": "bundle:Preview\/Images\/Cactus.jpg",
+                "back_preview_id": "bundle:Preview\/Images\/Patio.jpg",
                 "back_preview_is_favorite": "false",
                 "front_preview_id": "bundle:Preview\/Images\/Hand.jpg",
                 "front_preview_is_favorite": "false"
@@ -645,22 +651,6 @@
                     "flags": "0"
                 },
                 {
-                    "resId": "146",
-                    "uid": "1665882816727364:288055",
-                    "name": "Files\/File154",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "147",
-                    "uid": "1665882835703496:292632",
-                    "name": "Files\/File156",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
                     "resId": "149",
                     "uid": "1665883089280961:326028",
                     "name": "Files\/File160.js",
@@ -671,14 +661,6 @@
                 {
                     "resId": "151",
                     "uid": "1665889566576654:981942",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "152",
-                    "uid": "1665889566576644:981941",
                     "name": "",
                     "sourceFilePath": "",
                     "additionalProperties": "",
@@ -728,6 +710,30 @@
                     "resId": "158",
                     "uid": "1665895234386387:1657552",
                     "name": "Files\/File176",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "165",
+                    "uid": "1665950025319131:146461",
+                    "name": "Files\/File191",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "167",
+                    "uid": "1665950313154601:157710",
+                    "name": "Files\/File197.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "168",
+                    "uid": "1665950437702038:166403",
+                    "name": "Files\/File201.png",
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
@@ -818,36 +824,35 @@
                 "4": "1665862427099003:99568",
                 "5": "1665862427100387:99584",
                 "6": "1665862541628632:108581",
-                "7": "1665862541629065:108591",
-                "8": "1665862541630074:108604",
-                "9": "1665864410944156:244142",
-                "10": "1665864410945364:244155",
-                "11": "1665864410946439:244168",
-                "12": "1665881046700302:144279",
-                "13": "1665881046702649:144297",
-                "14": "1665881046704312:144315",
-                "15": "1665882630543254:267643",
-                "16": "1665882630936362:267981",
-                "17": "1665891230466224:1424752",
-                "18": "1665891230478852:1424877",
-                "19": "1665891471973894:1467001",
-                "20": "1665891471977129:1467019",
-                "21": "1665892824430122:1494834",
-                "22": "1665893932109461:1514091",
-                "23": "1665894178884717:1537770",
-                "24": "1665894178885821:1537772",
-                "25": "1665895196813688:1647476",
-                "26": "1665895196826212:1647688",
-                "27": "1665948815427943:48976",
-                "28": "1665949089633160:68626",
-                "29": "1665949154995413:76256",
-                "30": "1665949154996958:76258",
-                "31": "1665949234336306:86955",
-                "32": "1665949362668204:96147",
-                "33": "1665949566765075:107072",
-                "34": "1665949566766829:107074",
-                "35": "1665949659041757:113586",
-                "36": "1665949659043095:113588"
+                "7": "1665862541630074:108604",
+                "8": "1665864410944156:244142",
+                "9": "1665864410945364:244155",
+                "10": "1665864410946439:244168",
+                "11": "1665881046700302:144279",
+                "12": "1665881046702649:144297",
+                "13": "1665881046704312:144315",
+                "14": "1665882630543254:267643",
+                "15": "1665882630936362:267981",
+                "16": "1665891230466224:1424752",
+                "17": "1665891230478852:1424877",
+                "18": "1665891471973894:1467001",
+                "19": "1665891471977129:1467019",
+                "20": "1665892824430122:1494834",
+                "21": "1665893932109461:1514091",
+                "22": "1665894178884717:1537770",
+                "23": "1665894178885821:1537772",
+                "24": "1665895196813688:1647476",
+                "25": "1665895196826212:1647688",
+                "26": "1665948815427943:48976",
+                "27": "1665949089633160:68626",
+                "28": "1665949154995413:76256",
+                "29": "1665949154996958:76258",
+                "30": "1665949234336306:86955",
+                "31": "1665949362668204:96147",
+                "32": "1665949566765075:107072",
+                "33": "1665949566766829:107074",
+                "34": "1665949659041757:113586",
+                "35": "1665949659043095:113588"
             }
         },
         "LayerComponent": {
@@ -1227,22 +1232,6 @@
                     "v": "Files\/File153.js"
                 },
                 {
-                    "k": "154",
-                    "v": "Files\/File154"
-                },
-                {
-                    "k": "155",
-                    "v": "Files\/File155.lsmat"
-                },
-                {
-                    "k": "156",
-                    "v": "Files\/File156"
-                },
-                {
-                    "k": "157",
-                    "v": "Files\/File157.lsmat"
-                },
-                {
                     "k": "160",
                     "v": "Files\/File160.js"
                 },
@@ -1305,6 +1294,46 @@
                 {
                     "k": "177",
                     "v": "Files\/File177.lsmat"
+                },
+                {
+                    "k": "191",
+                    "v": "Files\/File191"
+                },
+                {
+                    "k": "192",
+                    "v": "Files\/File192.lsmat"
+                },
+                {
+                    "k": "197",
+                    "v": "Files\/File197.pvr"
+                },
+                {
+                    "k": "198",
+                    "v": "Files\/File198.png"
+                },
+                {
+                    "k": "199",
+                    "v": "Files\/File199.png"
+                },
+                {
+                    "k": "200",
+                    "v": "Files\/File200.pvr"
+                },
+                {
+                    "k": "201",
+                    "v": "Files\/File201.pvr"
+                },
+                {
+                    "k": "202",
+                    "v": "Files\/File202.png"
+                },
+                {
+                    "k": "203",
+                    "v": "Files\/File203.png"
+                },
+                {
+                    "k": "204",
+                    "v": "Files\/File204.pvr"
                 }
             ]
         },
@@ -1484,14 +1513,6 @@
                         "v": "applePicking.js"
                     },
                     {
-                        "k": "42",
-                        "v": "Text3D Default.lsmat"
-                    },
-                    {
-                        "k": "43",
-                        "v": "Text3D Default 2.lsmat"
-                    },
-                    {
                         "k": "45",
                         "v": "appleOnHand.js"
                     },
@@ -1522,6 +1543,18 @@
                     {
                         "k": "53",
                         "v": "Particles\/hand Particle Emitter Material.lsmat"
+                    },
+                    {
+                        "k": "58",
+                        "v": "Particles\/Smoke Particle Emitter Material.lsmat"
+                    },
+                    {
+                        "k": "60",
+                        "v": "Particles\/black_circle.png"
+                    },
+                    {
+                        "k": "61",
+                        "v": "Particles\/white_circle.png"
                     }
                 ],
                 "hashes": [
@@ -1692,18 +1725,50 @@
                     {
                         "k": "53",
                         "v": "b7a6d6ab6ef635795414ba75f7412b9a"
+                    },
+                    {
+                        "k": "54",
+                        "v": "92bbc0db9b88d58fd5538047917d20c8"
+                    },
+                    {
+                        "k": "55",
+                        "v": "662ece05e30282f62f87c5f988c50fc2"
+                    },
+                    {
+                        "k": "56",
+                        "v": "9d03377d8baad841137218c61f7de6b3"
+                    },
+                    {
+                        "k": "57",
+                        "v": "40b51f05bfe5e7691b607162dc4996df"
+                    },
+                    {
+                        "k": "58",
+                        "v": "6b61d07f9e3f7384380d00c5abe2d991"
+                    },
+                    {
+                        "k": "59",
+                        "v": "cd985e724ad6fe215fa277a9e442ee74"
+                    },
+                    {
+                        "k": "60",
+                        "v": "d8642cfdf18cde45638b19fa953ae320"
+                    },
+                    {
+                        "k": "61",
+                        "v": "37a88036872abf574cd2596661a1062b"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2022-10-16T01:02:19",
+                        "lastModified": "2022-10-16T16:00:43",
                         "name": "Public",
-                        "hash": "f4205a0c8e7547b3d329cd86ce699e59",
+                        "hash": "8a93ed0abfc7814536c9b9a7152b54a2",
                         "children": [
                             {
                                 "isFolder": "true",
-                                "lastModified": "2022-10-15T20:13:32",
+                                "lastModified": "2022-10-16T15:53:41",
                                 "name": "Textures",
                                 "hash": "6222f84e513d047119f8623129be7d7a",
                                 "children": [
@@ -1767,10 +1832,31 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2022-10-16T00:51:42",
+                                "lastModified": "2022-10-16T16:00:43",
                                 "name": "Particles",
-                                "hash": "f9ca94da0a92ca7ae9df13c6363f1993",
+                                "hash": "a1b4f302e24f13b212e4f27995f6016a",
                                 "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-10-16T16:00:21",
+                                        "name": "white_circle.png",
+                                        "hash": "37a88036872abf574cd2596661a1062b",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-10-16T15:58:11",
+                                        "name": "black_circle.png",
+                                        "hash": "d8642cfdf18cde45638b19fa953ae320",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-10-16T15:53:45",
+                                        "name": "Smoke Particle Emitter Material.lsmat",
+                                        "hash": "6b61d07f9e3f7384380d00c5abe2d991",
+                                        "children": ""
+                                    },
                                     {
                                         "isFolder": "false",
                                         "lastModified": "2022-10-16T00:51:01",
@@ -1962,23 +2048,9 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2022-10-15T21:13:36",
-                                "name": "Text3D Default.lsmat",
-                                "hash": "c53317368b76a95e4b5fabab3b32a99e",
-                                "children": ""
-                            },
-                            {
-                                "isFolder": "false",
                                 "lastModified": "2022-10-15T20:13:32",
                                 "name": "folder.lock",
                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
-                                "children": ""
-                            },
-                            {
-                                "isFolder": "false",
-                                "lastModified": "2022-10-15T21:13:55",
-                                "name": "Text3D Default 2.lsmat",
-                                "hash": "733d86b39e7b84bddc69e762e7af033b",
                                 "children": ""
                             }
                         ]
@@ -3195,34 +3267,6 @@
                         "additional": ""
                     },
                     {
-                        "name": "Text3D Default",
-                        "type": "2",
-                        "subtype": "1",
-                        "resourceId": "146",
-                        "dependency": "0",
-                        "hidden": "false",
-                        "uid": "1665882816727364:288055",
-                        "fileId": "154",
-                        "originalId": "155",
-                        "publicId": "42",
-                        "source": "",
-                        "additional": ""
-                    },
-                    {
-                        "name": "Text3D Default 2",
-                        "type": "2",
-                        "subtype": "1",
-                        "resourceId": "147",
-                        "dependency": "0",
-                        "hidden": "false",
-                        "uid": "1665882835703496:292632",
-                        "fileId": "156",
-                        "originalId": "157",
-                        "publicId": "43",
-                        "source": "",
-                        "additional": ""
-                    },
-                    {
                         "name": "appleOnHand",
                         "type": "4",
                         "subtype": "0",
@@ -3234,20 +3278,6 @@
                         "originalId": "18446744073709551615",
                         "publicId": "45",
                         "source": "\/Users\/ashk\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudiohftQikdbgowO\/\/system\/\/emergencyFiles\/emergencyJs.js",
-                        "additional": ""
-                    },
-                    {
-                        "name": "left hand tracking",
-                        "type": "34",
-                        "subtype": "0",
-                        "resourceId": "152",
-                        "dependency": "0",
-                        "hidden": "false",
-                        "uid": "1665889566576644:981941",
-                        "fileId": "18446744073709551615",
-                        "originalId": "18446744073709551615",
-                        "publicId": "18446744073709551615",
-                        "source": "",
                         "additional": ""
                     },
                     {
@@ -3378,6 +3408,52 @@
                                 "publicId": "53",
                                 "source": "",
                                 "additional": ""
+                            },
+                            {
+                                "name": "Smoke Particle Emitter Material",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "165",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1665950025319131:146461",
+                                "fileId": "191",
+                                "originalId": "192",
+                                "publicId": "58",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "black_circle",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "167",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1665950313154601:157710",
+                                "fileId": "197",
+                                "originalId": "198",
+                                "publicId": "60",
+                                "source": "\/Users\/ashk\/Desktop\/AR_appleTree\/AR_ApplePicking\/black_circle.png",
+                                "additional": {
+                                    "originHash": "d8642cfdf18cde45638b19fa953ae320"
+                                }
+                            },
+                            {
+                                "name": "white_circle",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "168",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1665950437702038:166403",
+                                "fileId": "201",
+                                "originalId": "202",
+                                "publicId": "61",
+                                "source": "\/Users\/ashk\/Desktop\/AR_appleTree\/AR_ApplePicking\/white_circle.png",
+                                "additional": {
+                                    "originHash": "37a88036872abf574cd2596661a1062b"
+                                }
                             }
                         ]
                     },
@@ -3399,7 +3475,17 @@
             }
         },
         "InspectorController": {
-            "selection": ""
+            "selection": {
+                "resources": [
+                    {
+                        "uid": "1665950025319131:146461",
+                        "path_list": [
+                            "Particles",
+                            "Smoke Particle Emitter Material"
+                        ]
+                    }
+                ]
+            }
         },
         "EffectsController": {
             "1": "",
@@ -4351,6 +4437,62 @@
                                     "settings_hash": "2049"
                                 },
                                 "v": "174"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1665950313154601:157710",
+                    "v": {
+                        "infos": {
+                            "originalSize": "43961",
+                            "compressedSize": "42827",
+                            "originalRAM": "1104376",
+                            "compressedRAM": "139392",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "199",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "d8642cfdf18cde45638b19fa953ae320",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "200"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1665950437702038:166403",
+                    "v": {
+                        "infos": {
+                            "originalSize": "34001",
+                            "compressedSize": "33499",
+                            "originalRAM": "16777216",
+                            "compressedRAM": "2097152",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "203",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "37a88036872abf574cd2596661a1062b",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "204"
                             }
                         ]
                     }
