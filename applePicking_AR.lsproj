@@ -3,7 +3,7 @@
     "document_id": "4evVZ8Gq5pE_HQFyuULN",
     "original_document_id": "uD8Mht1sQzFRghx9mVbo",
     "version": "29",
-    "lastChanged": "1665881277669",
+    "lastChanged": "1665891395907",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -41,6 +41,12 @@
                     [
                         "Echopark",
                         "Specular"
+                    ],
+                    [
+                        "Text3D Default"
+                    ],
+                    [
+                        "Text3D Default 2"
                     ],
                     [
                         "Textures"
@@ -124,6 +130,9 @@
                         "ground_grid"
                     ],
                     [
+                        "appleOnHand"
+                    ],
+                    [
                         "applePicking"
                     ],
                     [
@@ -190,6 +199,9 @@
                     [
                         "apples",
                         "appleTree"
+                    ],
+                    [
+                        "left hand tracking"
                     ]
                 ]
             ]
@@ -197,7 +209,8 @@
         "SceneTreeUiComponent": {
             "collapsedList": [
                 [
-                    "1517446348227994:84813"
+                    "1517446348227994:84813",
+                    "1665864410893355:243828"
                 ]
             ],
             "selectionSetList": ""
@@ -212,14 +225,14 @@
         "PreviewUiComponent": {
             "preview_descriptor": {
                 "is_capture": "0",
-                "camera_type": "1"
+                "camera_type": "2"
             },
             "show_snap_ui": "true",
             "show_sponsored_ui": "false",
             "preview_images_project_config": {
                 "back_preview_id": "bundle:Preview\/Images\/Cactus.jpg",
                 "back_preview_is_favorite": "false",
-                "front_preview_id": "bundle:Preview\/Images\/Person 2.jpg",
+                "front_preview_id": "bundle:Preview\/Images\/Hand.jpg",
                 "front_preview_is_favorite": "false"
             },
             "preview_videos_project_config": {
@@ -238,7 +251,8 @@
         "InspectorUiComponent": {
             "collapsedList": [
                 [
-                    "1665880221008290:79889"
+                    "1665880221008290:79889",
+                    "1665882557843585:257642"
                 ]
             ]
         },
@@ -604,6 +618,54 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
+                },
+                {
+                    "resId": "144",
+                    "uid": "1665882557381466:257604",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "146",
+                    "uid": "1665882816727364:288055",
+                    "name": "Files\/File154",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "147",
+                    "uid": "1665882835703496:292632",
+                    "name": "Files\/File156",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "149",
+                    "uid": "1665883089280961:326028",
+                    "name": "Files\/File160.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "151",
+                    "uid": "1665889566576654:981942",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "152",
+                    "uid": "1665889566576644:981941",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
                 }
             ],
             "MaterialUpdateManager": {
@@ -620,7 +682,50 @@
                     "uidsToFeatureNamesWithIntensity": ""
                 },
                 "ScreenTransform": {
-                    "uidData": "",
+                    "uidData": [
+                        {
+                            "k": "1665882630936618:267982",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "true",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "true"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1665891230466430:1424753",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1665891230478979:1424878",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
                     "generalData": ""
                 }
             }
@@ -639,15 +744,18 @@
                 "9": "1665864410944156:244142",
                 "10": "1665864410945364:244155",
                 "11": "1665864410946439:244168",
-                "12": "1665879581863177:37389",
-                "13": "1665881046700302:144279",
-                "14": "1665881046702649:144297",
-                "15": "1665881046704312:144315"
+                "12": "1665881046700302:144279",
+                "13": "1665881046702649:144297",
+                "14": "1665881046704312:144315",
+                "15": "1665882630543254:267643",
+                "16": "1665882630936362:267981",
+                "17": "1665891230466224:1424752",
+                "18": "1665891230478852:1424877"
             }
         },
         "LayerComponent": {
             "nextLayerId": "2",
-            "showOrthographicLayer": "false",
+            "showOrthographicLayer": "true",
             "layersInfo": [
                 {
                     "layerId": "0",
@@ -1020,6 +1128,26 @@
                 {
                     "k": "153",
                     "v": "Files\/File153.js"
+                },
+                {
+                    "k": "154",
+                    "v": "Files\/File154"
+                },
+                {
+                    "k": "155",
+                    "v": "Files\/File155.lsmat"
+                },
+                {
+                    "k": "156",
+                    "v": "Files\/File156"
+                },
+                {
+                    "k": "157",
+                    "v": "Files\/File157.lsmat"
+                },
+                {
+                    "k": "160",
+                    "v": "Files\/File160.js"
                 }
             ]
         },
@@ -1197,6 +1325,18 @@
                     {
                         "k": "41",
                         "v": "applePicking.js"
+                    },
+                    {
+                        "k": "42",
+                        "v": "Text3D Default.lsmat"
+                    },
+                    {
+                        "k": "43",
+                        "v": "Text3D Default 2.lsmat"
+                    },
+                    {
+                        "k": "45",
+                        "v": "appleOnHand.js"
                     }
                 ],
                 "hashes": [
@@ -1234,7 +1374,7 @@
                     },
                     {
                         "k": "11",
-                        "v": "1c10b9059c7f9c2bf30e7e318898fefe"
+                        "v": "f698088585bcebe73239cd9e6b5055c0"
                     },
                     {
                         "k": "12",
@@ -1322,15 +1462,35 @@
                     },
                     {
                         "k": "41",
-                        "v": "bfdd42f2bfe0481f1cfcc633d2e261b6"
+                        "v": "765f18d680cab4f9deb939ac04764f42"
+                    },
+                    {
+                        "k": "42",
+                        "v": "c53317368b76a95e4b5fabab3b32a99e"
+                    },
+                    {
+                        "k": "43",
+                        "v": "733d86b39e7b84bddc69e762e7af033b"
+                    },
+                    {
+                        "k": "44",
+                        "v": "494eedf4f72b5b66abb42e77205506db"
+                    },
+                    {
+                        "k": "45",
+                        "v": "e75de7f736cd170c8987a14f3be64b1a"
+                    },
+                    {
+                        "k": "46",
+                        "v": "494eedf4f72b5b66abb42e77205506db"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2022-10-15T20:43:52",
+                        "lastModified": "2022-10-15T23:07:29",
                         "name": "Public",
-                        "hash": "77fe357ccbf48b3346d07a63b8a7fb27",
+                        "hash": "fba85a92a0b49f8334d5928a91bcd837",
                         "children": [
                             {
                                 "isFolder": "true",
@@ -1384,9 +1544,16 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2022-10-15T20:41:00",
+                                "lastModified": "2022-10-15T23:01:34",
                                 "name": "applePicking.js",
-                                "hash": "bfdd42f2bfe0481f1cfcc633d2e261b6",
+                                "hash": "765f18d680cab4f9deb939ac04764f42",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-10-15T23:01:49",
+                                "name": "appleOnHand.js",
+                                "hash": "e75de7f736cd170c8987a14f3be64b1a",
                                 "children": ""
                             },
                             {
@@ -1529,9 +1696,23 @@
                             },
                             {
                                 "isFolder": "false",
+                                "lastModified": "2022-10-15T21:13:36",
+                                "name": "Text3D Default.lsmat",
+                                "hash": "c53317368b76a95e4b5fabab3b32a99e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
                                 "lastModified": "2022-10-15T20:13:32",
                                 "name": "folder.lock",
                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-10-15T21:13:55",
+                                "name": "Text3D Default 2.lsmat",
+                                "hash": "733d86b39e7b84bddc69e762e7af033b",
                                 "children": ""
                             }
                         ]
@@ -2746,16 +2927,68 @@
                         "publicId": "41",
                         "source": "\/Users\/ashk\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudiohftQikdbgowO\/\/system\/\/emergencyFiles\/emergencyJs.js",
                         "additional": ""
+                    },
+                    {
+                        "name": "Text3D Default",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "146",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1665882816727364:288055",
+                        "fileId": "154",
+                        "originalId": "155",
+                        "publicId": "42",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Text3D Default 2",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "147",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1665882835703496:292632",
+                        "fileId": "156",
+                        "originalId": "157",
+                        "publicId": "43",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "appleOnHand",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "149",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1665883089280961:326028",
+                        "fileId": "160",
+                        "originalId": "18446744073709551615",
+                        "publicId": "45",
+                        "source": "\/Users\/ashk\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudiohftQikdbgowO\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "left hand tracking",
+                        "type": "34",
+                        "subtype": "0",
+                        "resourceId": "152",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1665889566576644:981941",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
                     }
                 ]
             }
         },
         "InspectorController": {
-            "selection": {
-                "objects": [
-                    "1665862427099003:99568"
-                ]
-            }
+            "selection": ""
         },
         "EffectsController": {
             "1": "",
