@@ -3,7 +3,7 @@
     "document_id": "4evVZ8Gq5pE_HQFyuULN",
     "original_document_id": "uD8Mht1sQzFRghx9mVbo",
     "version": "29",
-    "lastChanged": "1665866940805",
+    "lastChanged": "1665878644451",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -44,400 +44,6 @@
                     ],
                     [
                         "Post Effect"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "COG_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "FLOATER_JNT_GRP"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "Spine_01_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "Spine_02_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "Spine_03_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "Spine_04_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "back_floater_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "floater_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "front_floater_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "head_01_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "head_02_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "head_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "hips_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "left_atwist_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "left_clavicle_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "left_ear_01_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "left_ear_02_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "left_ear_03_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "left_finger_01_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "left_finger_02_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "left_finger_03_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "left_finger_04_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "left_foot_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "left_hand_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "left_knee_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "left_l_arm_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "left_l_knee_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "left_latwist_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "left_leg_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "left_leg_T_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "left_side_01_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "left_side_02_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "left_side_03_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "left_toe_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "left_upperarm_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "neck_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "right_atwist_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "right_clavicle_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "right_ear_01_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "right_ear_02_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "right_ear_03_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "right_finger_01_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "right_finger_02_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "right_finger_03_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "right_finger_04JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "right_foot_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "right_hand_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "right_knee_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "right_l_arm_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "right_l_knee_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "right_latwist_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "right_leg_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "right_leg_T_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "right_side_01_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "right_side_02_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "right_side_03_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "right_toe_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "right_upperarm_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "tail_01_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "tail_02_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "tail_03_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "tail_04_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "tail_05_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "tail_06_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "tail_07_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "tail_08_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "tail_09_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "tail_10_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Animations",
-                        "tail_11_JNT"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Materials"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Materials",
-                        "red_panda_pbr"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Meshes"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Meshes",
-                        "innertube_lo"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Meshes",
-                        "red_panda_lo"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Textures"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Textures",
-                        "red_panda_base"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Textures",
-                        "red_panda_normal"
-                    ],
-                    [
-                        "Red_Panda_FBX [REMOVE_ME]",
-                        "Textures",
-                        "red_panda_param"
                     ],
                     [
                         "Simple PBR"
@@ -606,9 +212,6 @@
                         "appleTree"
                     ],
                     [
-                        "appleTree 2"
-                    ],
-                    [
                         "appleTree 2",
                         "Materials",
                         "bark"
@@ -640,6 +243,15 @@
                     [
                         "appleTree 2",
                         "appleTree"
+                    ],
+                    [
+                        "bark_displacement"
+                    ],
+                    [
+                        "bark_roughness"
+                    ],
+                    [
+                        "bark_texture"
                     ],
                     [
                         "leaf"
@@ -701,7 +313,7 @@
             "mapPinPoints": ""
         },
         "Material::UiComponent": {
-            "active_graph_asset": "1665866624984468:123919"
+            "active_graph_asset": "1665862512647760:105610"
         },
         "Script::UiComponent": {
             "active_graph_asset": "-1:-1"
@@ -1034,606 +646,6 @@
                     "flags": "1"
                 },
                 {
-                    "resId": "55",
-                    "uid": "1665864410452776:243456",
-                    "name": "Files\/File100.mesh",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "56",
-                    "uid": "1665864410488224:243469",
-                    "name": "Files\/File102.mesh",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "57",
-                    "uid": "1665864410516565:243479",
-                    "name": "Files\/File104.jpg",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "58",
-                    "uid": "1665864410564581:243538",
-                    "name": "Files\/File107.jpg",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "59",
-                    "uid": "1665864410627705:243589",
-                    "name": "Files\/File110.jpg",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "60",
-                    "uid": "1665864410646112:243598",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "61",
-                    "uid": "1665864410647156:243601",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "62",
-                    "uid": "1665864410647633:243604",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "63",
-                    "uid": "1665864410648098:243607",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "64",
-                    "uid": "1665864410648566:243610",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "65",
-                    "uid": "1665864410649030:243613",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "66",
-                    "uid": "1665864410649483:243616",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "67",
-                    "uid": "1665864410649944:243619",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "68",
-                    "uid": "1665864410650396:243622",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "69",
-                    "uid": "1665864410650851:243625",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "70",
-                    "uid": "1665864410651310:243630",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "71",
-                    "uid": "1665864410651931:243633",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "72",
-                    "uid": "1665864410652513:243636",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "73",
-                    "uid": "1665864410652986:243639",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "74",
-                    "uid": "1665864410653452:243642",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "75",
-                    "uid": "1665864410653929:243645",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "76",
-                    "uid": "1665864410655553:243648",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "77",
-                    "uid": "1665864410656130:243651",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "78",
-                    "uid": "1665864410656619:243654",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "79",
-                    "uid": "1665864410657179:243657",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "80",
-                    "uid": "1665864410657651:243660",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "81",
-                    "uid": "1665864410658130:243663",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "82",
-                    "uid": "1665864410658610:243666",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "83",
-                    "uid": "1665864410659091:243669",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "84",
-                    "uid": "1665864410659553:243672",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "85",
-                    "uid": "1665864410660035:243675",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "86",
-                    "uid": "1665864410660501:243678",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "87",
-                    "uid": "1665864410660986:243681",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "88",
-                    "uid": "1665864410661459:243684",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "89",
-                    "uid": "1665864410661934:243687",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "90",
-                    "uid": "1665864410662726:243690",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "91",
-                    "uid": "1665864410663293:243693",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "92",
-                    "uid": "1665864410663815:243696",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "93",
-                    "uid": "1665864410664313:243699",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "94",
-                    "uid": "1665864410664807:243702",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "95",
-                    "uid": "1665864410665299:243705",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "96",
-                    "uid": "1665864410665798:243708",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "97",
-                    "uid": "1665864410666302:243711",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "98",
-                    "uid": "1665864410666791:243714",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "99",
-                    "uid": "1665864410667297:243717",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "100",
-                    "uid": "1665864410667775:243720",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "101",
-                    "uid": "1665864410668274:243723",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "102",
-                    "uid": "1665864410668775:243726",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "103",
-                    "uid": "1665864410669260:243729",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "104",
-                    "uid": "1665864410669766:243732",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "105",
-                    "uid": "1665864410670254:243735",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "106",
-                    "uid": "1665864410670757:243738",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "107",
-                    "uid": "1665864410671247:243741",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "108",
-                    "uid": "1665864410671750:243744",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "109",
-                    "uid": "1665864410672235:243747",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "110",
-                    "uid": "1665864410672733:243750",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "111",
-                    "uid": "1665864410673225:243753",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "112",
-                    "uid": "1665864410673717:243756",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "113",
-                    "uid": "1665864410674208:243759",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "114",
-                    "uid": "1665864410674713:243762",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "115",
-                    "uid": "1665864410675202:243765",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "116",
-                    "uid": "1665864410675708:243768",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "117",
-                    "uid": "1665864410676204:243771",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "118",
-                    "uid": "1665864410676707:243774",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "119",
-                    "uid": "1665864410677227:243777",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "120",
-                    "uid": "1665864410677751:243780",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "121",
-                    "uid": "1665864410678260:243783",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "122",
-                    "uid": "1665864410678768:243786",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "123",
-                    "uid": "1665864410679283:243789",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "124",
-                    "uid": "1665864410679801:243792",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "125",
-                    "uid": "1665864410680318:243795",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "126",
-                    "uid": "1665864410680823:243798",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "127",
-                    "uid": "1665864410681333:243801",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "128",
-                    "uid": "1665864410681852:243804",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "129",
-                    "uid": "1665864410756975:243813",
-                    "name": "Files\/File113",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
                     "resId": "137",
                     "uid": "1665866624984468:123919",
                     "name": "Files\/File135",
@@ -1645,6 +657,30 @@
                     "resId": "138",
                     "uid": "1665866625112449:123971",
                     "name": "Files\/File137.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "139",
+                    "uid": "1665878030534410:34683",
+                    "name": "Files\/File139.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "140",
+                    "uid": "1665878111942375:42472",
+                    "name": "Files\/File143.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "141",
+                    "uid": "1665878412658950:64513",
+                    "name": "Files\/File147.png",
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
@@ -2022,80 +1058,8 @@
                     "v": "Files\/File99.lsmat"
                 },
                 {
-                    "k": "100",
-                    "v": "Files\/File100.mesh"
-                },
-                {
-                    "k": "101",
-                    "v": "Files\/File101.mesh"
-                },
-                {
-                    "k": "102",
-                    "v": "Files\/File102.mesh"
-                },
-                {
-                    "k": "103",
-                    "v": "Files\/File103.mesh"
-                },
-                {
-                    "k": "104",
-                    "v": "Files\/File104.pvr"
-                },
-                {
-                    "k": "105",
-                    "v": "Files\/File105.png"
-                },
-                {
-                    "k": "106",
-                    "v": "Files\/File106.png"
-                },
-                {
-                    "k": "107",
-                    "v": "Files\/File107.pvr"
-                },
-                {
-                    "k": "108",
-                    "v": "Files\/File108.png"
-                },
-                {
-                    "k": "109",
-                    "v": "Files\/File109.png"
-                },
-                {
-                    "k": "110",
-                    "v": "Files\/File110.pvr"
-                },
-                {
-                    "k": "111",
-                    "v": "Files\/File111.png"
-                },
-                {
-                    "k": "112",
-                    "v": "Files\/File112.png"
-                },
-                {
-                    "k": "113",
-                    "v": "Files\/File113"
-                },
-                {
-                    "k": "114",
-                    "v": "Files\/File114.lsmat"
-                },
-                {
                     "k": "115",
                     "v": "Files\/File115.pvr"
-                },
-                {
-                    "k": "116",
-                    "v": "Files\/File116.pvr"
-                },
-                {
-                    "k": "117",
-                    "v": "Files\/File117.pvr"
-                },
-                {
-                    "k": "118",
-                    "v": "Files\/File118.pvr"
                 },
                 {
                     "k": "135",
@@ -2112,6 +1076,54 @@
                 {
                     "k": "138",
                     "v": "Files\/File138.png"
+                },
+                {
+                    "k": "139",
+                    "v": "Files\/File139.jpg"
+                },
+                {
+                    "k": "140",
+                    "v": "Files\/File140.jpg"
+                },
+                {
+                    "k": "141",
+                    "v": "Files\/File141.jpg"
+                },
+                {
+                    "k": "142",
+                    "v": "Files\/File142.jpg"
+                },
+                {
+                    "k": "143",
+                    "v": "Files\/File143.jpg"
+                },
+                {
+                    "k": "144",
+                    "v": "Files\/File144.jpg"
+                },
+                {
+                    "k": "145",
+                    "v": "Files\/File145.jpg"
+                },
+                {
+                    "k": "146",
+                    "v": "Files\/File146.jpg"
+                },
+                {
+                    "k": "147",
+                    "v": "Files\/File147.pvr"
+                },
+                {
+                    "k": "148",
+                    "v": "Files\/File148.png"
+                },
+                {
+                    "k": "149",
+                    "v": "Files\/File149.png"
+                },
+                {
+                    "k": "150",
+                    "v": "Files\/File150.pvr"
                 }
             ]
         },
@@ -2279,56 +1291,24 @@
                         "v": "WorldObjectController\/Materials\/ground_grid.lsmat"
                     },
                     {
-                        "k": "1108",
-                        "v": "Red_Panda_FBX [REMOVE_ME]"
-                    },
-                    {
-                        "k": "1109",
-                        "v": "Red_Panda_FBX [REMOVE_ME]\/Meshes"
-                    },
-                    {
-                        "k": "1110",
-                        "v": "Red_Panda_FBX [REMOVE_ME]\/Meshes\/red_panda_lo.mesh"
-                    },
-                    {
-                        "k": "1111",
-                        "v": "Red_Panda_FBX [REMOVE_ME]\/Meshes\/innertube_lo.mesh"
-                    },
-                    {
-                        "k": "1112",
-                        "v": "Red_Panda_FBX [REMOVE_ME]\/Textures"
-                    },
-                    {
-                        "k": "1113",
-                        "v": "Red_Panda_FBX [REMOVE_ME]\/Textures\/red_panda_base.png"
-                    },
-                    {
-                        "k": "1114",
-                        "v": "Red_Panda_FBX [REMOVE_ME]\/Textures\/red_panda_normal.png"
-                    },
-                    {
-                        "k": "1115",
-                        "v": "Red_Panda_FBX [REMOVE_ME]\/Textures\/red_panda_param.png"
-                    },
-                    {
-                        "k": "1116",
-                        "v": "Red_Panda_FBX [REMOVE_ME]\/Animations"
-                    },
-                    {
-                        "k": "1117",
-                        "v": "Red_Panda_FBX [REMOVE_ME]\/Materials"
-                    },
-                    {
-                        "k": "1118",
-                        "v": "Red_Panda_FBX [REMOVE_ME]\/Materials\/red_panda_pbr.lsmat"
-                    },
-                    {
                         "k": "1128",
                         "v": "Textures\/Normal.png"
                     },
                     {
                         "k": "1129",
                         "v": "leaf.lsmat"
+                    },
+                    {
+                        "k": "1130",
+                        "v": "bark_texture.jpg"
+                    },
+                    {
+                        "k": "1131",
+                        "v": "bark_roughness.jpg"
+                    },
+                    {
+                        "k": "1132",
+                        "v": "bark_displacement.png"
                     }
                 ],
                 "hashes": [
@@ -2430,7 +1410,7 @@
                     },
                     {
                         "k": "1083",
-                        "v": "f2c1ee05efc8103ef20637d06dc1b963"
+                        "v": "4e3fd1eed2dd34c2384e6195bcceb079"
                     },
                     {
                         "k": "1084",
@@ -2563,14 +1543,26 @@
                     {
                         "k": "1129",
                         "v": "0bfa6ec3951898602116f7a4ba7769ab"
+                    },
+                    {
+                        "k": "1130",
+                        "v": "6669cca520594bdca19f94084984ab72"
+                    },
+                    {
+                        "k": "1131",
+                        "v": "bbcde696e5b9418cdcb2abe638965417"
+                    },
+                    {
+                        "k": "1132",
+                        "v": "48cf9f66cadfd41b47789476b7233722"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2022-10-15T16:45:43",
+                        "lastModified": "2022-10-15T20:00:13",
                         "name": "Public",
-                        "hash": "f812c0a38d9ea52199f21ea940608d7e",
+                        "hash": "2bdffc31296a8440df901152c0b73c5a",
                         "children": [
                             {
                                 "isFolder": "false",
@@ -2627,6 +1619,27 @@
                                 "lastModified": "2022-10-15T16:43:45",
                                 "name": "leaf.lsmat",
                                 "hash": "0bfa6ec3951898602116f7a4ba7769ab",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-10-14T23:01:58",
+                                "name": "bark_roughness.jpg",
+                                "hash": "bbcde696e5b9418cdcb2abe638965417",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-10-14T23:01:58",
+                                "name": "bark_texture.jpg",
+                                "hash": "6669cca520594bdca19f94084984ab72",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-10-14T23:01:58",
+                                "name": "bark_displacement.png",
+                                "hash": "48cf9f66cadfd41b47789476b7233722",
                                 "children": ""
                             },
                             {
@@ -2773,123 +1786,6 @@
                                 "name": "Post Effect.lsmat",
                                 "hash": "7cf924d4e67c615fa119f0ff8d714034",
                                 "children": ""
-                            },
-                            {
-                                "isFolder": "true",
-                                "lastModified": "2022-10-15T16:20:19",
-                                "name": "Red_Panda_FBX [REMOVE_ME]",
-                                "hash": "dbbb229aeb7d3a1ae32fb6a1714da146",
-                                "children": [
-                                    {
-                                        "isFolder": "true",
-                                        "lastModified": "2022-10-15T16:20:19",
-                                        "name": "Textures",
-                                        "hash": "805d0ba4e813691f20569c794dc4f0c3",
-                                        "children": [
-                                            {
-                                                "isFolder": "false",
-                                                "lastModified": "2022-10-15T16:06:49",
-                                                "name": "red_panda_normal.png",
-                                                "hash": "83952503d7715d6e7a4a382918761159",
-                                                "children": ""
-                                            },
-                                            {
-                                                "isFolder": "false",
-                                                "lastModified": "2022-10-15T16:06:49",
-                                                "name": "red_panda_param.png",
-                                                "hash": "be41801402376ae465615fd09cf21b74",
-                                                "children": ""
-                                            },
-                                            {
-                                                "isFolder": "false",
-                                                "lastModified": "2022-10-15T16:06:49",
-                                                "name": "red_panda_base.png",
-                                                "hash": "cfb995f6f6bdb951ea945c298701ad69",
-                                                "children": ""
-                                            },
-                                            {
-                                                "isFolder": "false",
-                                                "lastModified": "2022-10-15T16:06:50",
-                                                "name": "folder.lock",
-                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
-                                                "children": ""
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "isFolder": "true",
-                                        "lastModified": "2022-10-15T16:20:19",
-                                        "name": "Materials",
-                                        "hash": "585d8a317c88a810d45de3d09ed2bb1e",
-                                        "children": [
-                                            {
-                                                "isFolder": "false",
-                                                "lastModified": "2022-10-15T16:06:50",
-                                                "name": "red_panda_pbr.lsmat",
-                                                "hash": "772bf52d906a9dce333a141669fcc47c",
-                                                "children": ""
-                                            },
-                                            {
-                                                "isFolder": "false",
-                                                "lastModified": "2022-10-15T16:06:50",
-                                                "name": "folder.lock",
-                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
-                                                "children": ""
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "isFolder": "true",
-                                        "lastModified": "2022-10-15T16:20:19",
-                                        "name": "Meshes",
-                                        "hash": "8b71e1cdd9ecb5e8b5e5f67e096acda3",
-                                        "children": [
-                                            {
-                                                "isFolder": "false",
-                                                "lastModified": "2022-10-15T16:06:49",
-                                                "name": "red_panda_lo.mesh",
-                                                "hash": "6955ae436ec6a2c1fa59d00f761681f4",
-                                                "children": ""
-                                            },
-                                            {
-                                                "isFolder": "false",
-                                                "lastModified": "2022-10-15T16:06:49",
-                                                "name": "innertube_lo.mesh",
-                                                "hash": "0377342409f8ec90142150bdb61f7bc7",
-                                                "children": ""
-                                            },
-                                            {
-                                                "isFolder": "false",
-                                                "lastModified": "2022-10-15T16:06:50",
-                                                "name": "folder.lock",
-                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
-                                                "children": ""
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "isFolder": "true",
-                                        "lastModified": "2022-10-15T16:20:19",
-                                        "name": "Animations",
-                                        "hash": "59adb24ef3cdbe0297f05b395827453f",
-                                        "children": [
-                                            {
-                                                "isFolder": "false",
-                                                "lastModified": "2022-10-15T16:06:50",
-                                                "name": "folder.lock",
-                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
-                                                "children": ""
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2022-10-15T16:06:50",
-                                        "name": "folder.lock",
-                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
-                                        "children": ""
-                                    }
-                                ]
                             },
                             {
                                 "isFolder": "false",
@@ -3844,1207 +2740,6 @@
                         "additional": ""
                     },
                     {
-                        "name": "Red_Panda_FBX [REMOVE_ME]",
-                        "type": "0",
-                        "subtype": "-1",
-                        "resourceId": "-1",
-                        "dependency": "0",
-                        "hidden": "false",
-                        "uid": "-1:-1",
-                        "fileId": "18446744073709551615",
-                        "originalId": "18446744073709551615",
-                        "publicId": "1108",
-                        "source": "",
-                        "additional": "",
-                        "resources": [
-                            {
-                                "name": "Meshes",
-                                "type": "0",
-                                "subtype": "-1",
-                                "resourceId": "-1",
-                                "dependency": "0",
-                                "hidden": "false",
-                                "uid": "-1:-1",
-                                "fileId": "18446744073709551615",
-                                "originalId": "18446744073709551615",
-                                "publicId": "1109",
-                                "source": "",
-                                "additional": "",
-                                "resources": [
-                                    {
-                                        "name": "red_panda_lo",
-                                        "type": "3",
-                                        "subtype": "0",
-                                        "resourceId": "55",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410452776:243456",
-                                        "fileId": "100",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "1110",
-                                        "source": "\/Users\/ashk\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioHkHRKwXDLzUj\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
-                                        "additional": {
-                                            "info": {
-                                                "vertexAttribs": [
-                                                    {
-                                                        "semantic": "position",
-                                                        "format": "9",
-                                                        "canBeDisabled": "false"
-                                                    },
-                                                    {
-                                                        "semantic": "normal",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    },
-                                                    {
-                                                        "semantic": "tangent",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    },
-                                                    {
-                                                        "semantic": "texture0",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    },
-                                                    {
-                                                        "semantic": "boneData",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    }
-                                                ],
-                                                "hasBlendShapes": "false"
-                                            }
-                                        }
-                                    },
-                                    {
-                                        "name": "innertube_lo",
-                                        "type": "3",
-                                        "subtype": "0",
-                                        "resourceId": "56",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410488224:243469",
-                                        "fileId": "102",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "1111",
-                                        "source": "\/Users\/ashk\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioHkHRKwXDLzUj\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
-                                        "additional": {
-                                            "info": {
-                                                "vertexAttribs": [
-                                                    {
-                                                        "semantic": "position",
-                                                        "format": "9",
-                                                        "canBeDisabled": "false"
-                                                    },
-                                                    {
-                                                        "semantic": "normal",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    },
-                                                    {
-                                                        "semantic": "tangent",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    },
-                                                    {
-                                                        "semantic": "texture0",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    },
-                                                    {
-                                                        "semantic": "boneData",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    }
-                                                ],
-                                                "hasBlendShapes": "false"
-                                            }
-                                        }
-                                    }
-                                ]
-                            },
-                            {
-                                "name": "Textures",
-                                "type": "0",
-                                "subtype": "-1",
-                                "resourceId": "-1",
-                                "dependency": "0",
-                                "hidden": "false",
-                                "uid": "-1:-1",
-                                "fileId": "18446744073709551615",
-                                "originalId": "18446744073709551615",
-                                "publicId": "1112",
-                                "source": "",
-                                "additional": "",
-                                "resources": [
-                                    {
-                                        "name": "red_panda_base",
-                                        "type": "1",
-                                        "subtype": "9",
-                                        "resourceId": "57",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410516565:243479",
-                                        "fileId": "104",
-                                        "originalId": "105",
-                                        "publicId": "1113",
-                                        "source": "\/Users\/ashk\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioHkHRKwXDLzUj\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
-                                        "additional": {
-                                            "originHash": "cfb995f6f6bdb951ea945c298701ad69",
-                                            "subtype": "9"
-                                        }
-                                    },
-                                    {
-                                        "name": "red_panda_normal",
-                                        "type": "1",
-                                        "subtype": "9",
-                                        "resourceId": "58",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410564581:243538",
-                                        "fileId": "107",
-                                        "originalId": "108",
-                                        "publicId": "1114",
-                                        "source": "\/Users\/ashk\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioHkHRKwXDLzUj\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
-                                        "additional": {
-                                            "originHash": "83952503d7715d6e7a4a382918761159",
-                                            "subtype": "9"
-                                        }
-                                    },
-                                    {
-                                        "name": "red_panda_param",
-                                        "type": "1",
-                                        "subtype": "9",
-                                        "resourceId": "59",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410627705:243589",
-                                        "fileId": "110",
-                                        "originalId": "111",
-                                        "publicId": "1115",
-                                        "source": "\/Users\/ashk\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioHkHRKwXDLzUj\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
-                                        "additional": {
-                                            "originHash": "be41801402376ae465615fd09cf21b74",
-                                            "subtype": "9"
-                                        }
-                                    }
-                                ]
-                            },
-                            {
-                                "name": "Animations",
-                                "type": "0",
-                                "subtype": "-1",
-                                "resourceId": "-1",
-                                "dependency": "0",
-                                "hidden": "false",
-                                "uid": "-1:-1",
-                                "fileId": "18446744073709551615",
-                                "originalId": "18446744073709551615",
-                                "publicId": "1116",
-                                "source": "",
-                                "additional": "",
-                                "resources": [
-                                    {
-                                        "name": "FLOATER_JNT_GRP",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "60",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410646112:243598",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "floater_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "61",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410647156:243601",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "back_floater_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "62",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410647633:243604",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "front_floater_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "63",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410648098:243607",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "head_01_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "64",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410648566:243610",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "head_02_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "65",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410649030:243613",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "left_side_01_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "66",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410649483:243616",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "left_side_03_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "67",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410649944:243619",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "left_side_02_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "68",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410650396:243622",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "right_side_01_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "69",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410650851:243625",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "right_side_02_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "70",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410651310:243630",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "right_side_03_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "71",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410651931:243633",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "COG_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "72",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410652513:243636",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "Spine_01_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "73",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410652986:243639",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "Spine_02_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "74",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410653452:243642",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "Spine_03_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "75",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410653929:243645",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "Spine_04_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "76",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410655553:243648",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "neck_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "77",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410656130:243651",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "head_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "78",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410656619:243654",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "left_ear_01_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "79",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410657179:243657",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "left_ear_02_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "80",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410657651:243660",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "left_ear_03_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "81",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410658130:243663",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "right_ear_01_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "82",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410658610:243666",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "right_ear_02_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "83",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410659091:243669",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "right_ear_03_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "84",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410659553:243672",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "left_clavicle_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "85",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410660035:243675",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "left_upperarm_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "86",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410660501:243678",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "left_atwist_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "87",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410660986:243681",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "left_l_arm_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "88",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410661459:243684",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "left_latwist_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "89",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410661934:243687",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "left_hand_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "90",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410662726:243690",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "left_finger_01_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "91",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410663293:243693",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "left_finger_02_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "92",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410663815:243696",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "left_finger_03_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "93",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410664313:243699",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "left_finger_04_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "94",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410664807:243702",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "right_clavicle_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "95",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410665299:243705",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "right_upperarm_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "96",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410665798:243708",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "right_atwist_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "97",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410666302:243711",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "right_l_arm_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "98",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410666791:243714",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "right_latwist_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "99",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410667297:243717",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "right_hand_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "100",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410667775:243720",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "right_finger_01_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "101",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410668274:243723",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "right_finger_02_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "102",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410668775:243726",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "right_finger_03_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "103",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410669260:243729",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "right_finger_04JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "104",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410669766:243732",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "tail_01_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "105",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410670254:243735",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "tail_02_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "106",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410670757:243738",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "tail_03_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "107",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410671247:243741",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "tail_04_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "108",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410671750:243744",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "tail_05_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "109",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410672235:243747",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "tail_06_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "110",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410672733:243750",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "tail_07_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "111",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410673225:243753",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "tail_08_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "112",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410673717:243756",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "tail_09_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "113",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410674208:243759",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "tail_10_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "114",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410674713:243762",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "tail_11_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "115",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410675202:243765",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "hips_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "116",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410675708:243768",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "left_leg_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "117",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410676204:243771",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "left_leg_T_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "118",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410676707:243774",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "left_knee_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "119",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410677227:243777",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "left_l_knee_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "120",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410677751:243780",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "left_foot_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "121",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410678260:243783",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "left_toe_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "122",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410678768:243786",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "right_leg_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "123",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410679283:243789",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "right_leg_T_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "124",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410679801:243792",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "right_knee_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "125",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410680318:243795",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "right_l_knee_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "126",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410680823:243798",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "right_foot_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "127",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410681333:243801",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "right_toe_JNT",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "128",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410681852:243804",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    }
-                                ]
-                            },
-                            {
-                                "name": "Materials",
-                                "type": "0",
-                                "subtype": "-1",
-                                "resourceId": "-1",
-                                "dependency": "0",
-                                "hidden": "false",
-                                "uid": "-1:-1",
-                                "fileId": "18446744073709551615",
-                                "originalId": "18446744073709551615",
-                                "publicId": "1117",
-                                "source": "",
-                                "additional": "",
-                                "resources": [
-                                    {
-                                        "name": "red_panda_pbr",
-                                        "type": "2",
-                                        "subtype": "1",
-                                        "resourceId": "129",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665864410756975:243813",
-                                        "fileId": "113",
-                                        "originalId": "114",
-                                        "publicId": "1118",
-                                        "source": "",
-                                        "additional": ""
-                                    }
-                                ]
-                            }
-                        ]
-                    },
-                    {
                         "name": "WorldObjectController",
                         "type": "0",
                         "subtype": "-1",
@@ -5314,6 +3009,54 @@
                         "publicId": "1129",
                         "source": "",
                         "additional": ""
+                    },
+                    {
+                        "name": "bark_texture",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "139",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1665878030534410:34683",
+                        "fileId": "139",
+                        "originalId": "140",
+                        "publicId": "1130",
+                        "source": "\/Users\/ashk\/Desktop\/AR_appleTree\/AR_ApplePicking\/bark_texture.jpg",
+                        "additional": {
+                            "originHash": "6669cca520594bdca19f94084984ab72"
+                        }
+                    },
+                    {
+                        "name": "bark_roughness",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "140",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1665878111942375:42472",
+                        "fileId": "143",
+                        "originalId": "144",
+                        "publicId": "1131",
+                        "source": "\/Users\/ashk\/Desktop\/AR_appleTree\/AR_ApplePicking\/bark_roughness.jpg",
+                        "additional": {
+                            "originHash": "bbcde696e5b9418cdcb2abe638965417"
+                        }
+                    },
+                    {
+                        "name": "bark_displacement",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "141",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1665878412658950:64513",
+                        "fileId": "147",
+                        "originalId": "148",
+                        "publicId": "1132",
+                        "source": "\/Users\/ashk\/Desktop\/AR_appleTree\/AR_ApplePicking\/bark_displacement.png",
+                        "additional": {
+                            "originHash": "48cf9f66cadfd41b47789476b7233722"
+                        }
                     }
                 ]
             }
@@ -5322,9 +3065,11 @@
             "selection": {
                 "resources": [
                     {
-                        "uid": "1665866624984468:123919",
+                        "uid": "1665862512647760:105610",
                         "path_list": [
-                            "leaf"
+                            "appleTree 2",
+                            "Materials",
+                            "bark"
                         ]
                     }
                 ]
@@ -6127,181 +3872,69 @@
                     }
                 },
                 {
-                    "k": "1665864410452776:243456",
+                    "k": "1665878030534410:34683",
                     "v": {
                         "infos": {
-                            "originalSize": "90094",
-                            "compressedSize": "90094",
-                            "originalRAM": "125328",
-                            "compressedRAM": "125328",
-                            "extension": "mesh",
-                            "settings": {
-                                "isCompressed": "false",
-                                "info": {
-                                    "vertexAttribs": [
-                                        {
-                                            "semantic": "position",
-                                            "format": "9",
-                                            "canBeDisabled": "false"
-                                        },
-                                        {
-                                            "semantic": "normal",
-                                            "format": "9",
-                                            "canBeDisabled": "true"
-                                        },
-                                        {
-                                            "semantic": "tangent",
-                                            "format": "9",
-                                            "canBeDisabled": "true"
-                                        },
-                                        {
-                                            "semantic": "texture0",
-                                            "format": "9",
-                                            "canBeDisabled": "true"
-                                        },
-                                        {
-                                            "semantic": "boneData",
-                                            "format": "9",
-                                            "canBeDisabled": "true"
-                                        }
-                                    ],
-                                    "hasBlendShapes": "false"
-                                },
-                                "type": "0",
-                                "attributeFormat": "",
-                                "draco": {
-                                    "posBits": "11",
-                                    "texBits": "10",
-                                    "normalBits": "8",
-                                    "colorBits": "8",
-                                    "compressLvl": "7"
-                                }
-                            }
-                        },
-                        "uncompressed_file": "101",
-                        "compressed_files": ""
-                    }
-                },
-                {
-                    "k": "1665864410488224:243469",
-                    "v": {
-                        "infos": {
-                            "originalSize": "105538",
-                            "compressedSize": "105538",
-                            "originalRAM": "216952",
-                            "compressedRAM": "216952",
-                            "extension": "mesh",
-                            "settings": {
-                                "isCompressed": "false",
-                                "info": {
-                                    "vertexAttribs": [
-                                        {
-                                            "semantic": "position",
-                                            "format": "9",
-                                            "canBeDisabled": "false"
-                                        },
-                                        {
-                                            "semantic": "normal",
-                                            "format": "9",
-                                            "canBeDisabled": "true"
-                                        },
-                                        {
-                                            "semantic": "tangent",
-                                            "format": "9",
-                                            "canBeDisabled": "true"
-                                        },
-                                        {
-                                            "semantic": "texture0",
-                                            "format": "9",
-                                            "canBeDisabled": "true"
-                                        },
-                                        {
-                                            "semantic": "boneData",
-                                            "format": "9",
-                                            "canBeDisabled": "true"
-                                        }
-                                    ],
-                                    "hasBlendShapes": "false"
-                                },
-                                "type": "0",
-                                "attributeFormat": "",
-                                "draco": {
-                                    "posBits": "11",
-                                    "texBits": "10",
-                                    "normalBits": "8",
-                                    "colorBits": "8",
-                                    "compressLvl": "7"
-                                }
-                            }
-                        },
-                        "uncompressed_file": "103",
-                        "compressed_files": ""
-                    }
-                },
-                {
-                    "k": "1665864410516565:243479",
-                    "v": {
-                        "infos": {
-                            "originalSize": "55715",
-                            "compressedSize": "57588",
-                            "originalRAM": "16777216",
-                            "compressedRAM": "2097152",
-                            "extension": "png",
+                            "originalSize": "659872",
+                            "compressedSize": "473613",
+                            "originalRAM": "4194304",
+                            "compressedRAM": "4194304",
+                            "extension": "jpg",
                             "settings": {
                                 "isCompressed": "true",
-                                "level": "2",
-                                "type": "1",
+                                "level": "3",
+                                "type": "0",
                                 "subtype": "9"
                             }
                         },
-                        "uncompressed_file": "106",
+                        "uncompressed_file": "141",
                         "compressed_files": [
                             {
                                 "k": {
-                                    "uncompressed_hash": "cfb995f6f6bdb951ea945c298701ad69",
-                                    "settings_hash": "2049"
+                                    "uncompressed_hash": "6669cca520594bdca19f94084984ab72",
+                                    "settings_hash": "3072"
                                 },
-                                "v": "116"
+                                "v": "142"
                             }
                         ]
                     }
                 },
                 {
-                    "k": "1665864410564581:243538",
+                    "k": "1665878111942375:42472",
                     "v": {
                         "infos": {
-                            "originalSize": "609236",
-                            "compressedSize": "406456",
-                            "originalRAM": "16777216",
-                            "compressedRAM": "2097152",
-                            "extension": "png",
+                            "originalSize": "338000",
+                            "compressedSize": "338000",
+                            "originalRAM": "1048576",
+                            "compressedRAM": "1048576",
+                            "extension": "jpg",
                             "settings": {
                                 "isCompressed": "true",
-                                "level": "2",
-                                "type": "1",
+                                "level": "3",
+                                "type": "0",
                                 "subtype": "9"
                             }
                         },
-                        "uncompressed_file": "109",
+                        "uncompressed_file": "145",
                         "compressed_files": [
                             {
                                 "k": {
-                                    "uncompressed_hash": "83952503d7715d6e7a4a382918761159",
-                                    "settings_hash": "2049"
+                                    "uncompressed_hash": "bbcde696e5b9418cdcb2abe638965417",
+                                    "settings_hash": "3072"
                                 },
-                                "v": "117"
+                                "v": "146"
                             }
                         ]
                     }
                 },
                 {
-                    "k": "1665864410627705:243589",
+                    "k": "1665878412658950:64513",
                     "v": {
                         "infos": {
-                            "originalSize": "287803",
-                            "compressedSize": "97243",
-                            "originalRAM": "16777216",
-                            "compressedRAM": "2097152",
+                            "originalSize": "1864287",
+                            "compressedSize": "336298",
+                            "originalRAM": "4194304",
+                            "compressedRAM": "524288",
                             "extension": "png",
                             "settings": {
                                 "isCompressed": "true",
@@ -6310,14 +3943,14 @@
                                 "subtype": "9"
                             }
                         },
-                        "uncompressed_file": "112",
+                        "uncompressed_file": "149",
                         "compressed_files": [
                             {
                                 "k": {
-                                    "uncompressed_hash": "be41801402376ae465615fd09cf21b74",
+                                    "uncompressed_hash": "48cf9f66cadfd41b47789476b7233722",
                                     "settings_hash": "2049"
                                 },
-                                "v": "118"
+                                "v": "150"
                             }
                         ]
                     }
