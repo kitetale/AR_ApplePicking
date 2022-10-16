@@ -3,7 +3,7 @@
     "document_id": "4evVZ8Gq5pE_HQFyuULN",
     "original_document_id": "uD8Mht1sQzFRghx9mVbo",
     "version": "29",
-    "lastChanged": "1665878644451",
+    "lastChanged": "1665881277669",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -43,12 +43,6 @@
                         "Specular"
                     ],
                     [
-                        "Post Effect"
-                    ],
-                    [
-                        "Simple PBR"
-                    ],
-                    [
                         "Textures"
                     ],
                     [
@@ -74,9 +68,6 @@
                     [
                         "Textures",
                         "White"
-                    ],
-                    [
-                        "Unlit"
                     ],
                     [
                         "WorldObjectController"
@@ -133,31 +124,10 @@
                         "ground_grid"
                     ],
                     [
+                        "applePicking"
+                    ],
+                    [
                         "appleTree"
-                    ],
-                    [
-                        "appleTree",
-                        "Materials"
-                    ],
-                    [
-                        "appleTree",
-                        "Materials",
-                        "Leaf"
-                    ],
-                    [
-                        "appleTree",
-                        "Materials",
-                        "apple_material"
-                    ],
-                    [
-                        "appleTree",
-                        "Materials",
-                        "goldenApple"
-                    ],
-                    [
-                        "appleTree",
-                        "Materials",
-                        "space"
                     ],
                     [
                         "appleTree",
@@ -166,105 +136,69 @@
                     [
                         "appleTree",
                         "Meshes",
-                        "galaApple"
-                    ],
-                    [
-                        "appleTree",
-                        "Meshes",
-                        "goldenApple"
-                    ],
-                    [
-                        "appleTree",
-                        "Meshes",
                         "leaves"
                     ],
                     [
                         "appleTree",
-                        "Meshes",
-                        "leaves 2"
-                    ],
-                    [
-                        "appleTree",
-                        "Meshes",
-                        "spaceApple"
-                    ],
-                    [
-                        "appleTree",
-                        "Textures"
-                    ],
-                    [
-                        "appleTree",
-                        "Textures",
-                        "apple_color_bake"
-                    ],
-                    [
-                        "appleTree",
-                        "Textures",
-                        "golden"
-                    ],
-                    [
-                        "appleTree",
-                        "Textures",
-                        "space"
-                    ],
-                    [
-                        "appleTree",
-                        "appleTree"
-                    ],
-                    [
-                        "appleTree 2",
-                        "Materials",
-                        "bark"
-                    ],
-                    [
-                        "appleTree 2",
-                        "Materials",
-                        "leaf2"
-                    ],
-                    [
-                        "appleTree 2",
-                        "Meshes"
-                    ],
-                    [
-                        "appleTree 2",
-                        "Meshes",
-                        "leaves"
-                    ],
-                    [
-                        "appleTree 2",
                         "Meshes",
                         "tree"
                     ],
                     [
-                        "appleTree 2",
-                        "Textures",
-                        "apple_leaf_transparent"
-                    ],
-                    [
-                        "appleTree 2",
+                        "appleTree",
                         "appleTree"
                     ],
                     [
-                        "bark_displacement"
+                        "apples"
                     ],
                     [
-                        "bark_roughness"
+                        "apples",
+                        "Materials1"
                     ],
                     [
-                        "bark_texture"
+                        "apples",
+                        "Meshes"
                     ],
                     [
-                        "leaf"
+                        "apples",
+                        "Meshes",
+                        "galaApple"
                     ],
                     [
-                        "white"
+                        "apples",
+                        "Meshes",
+                        "goldenApple"
+                    ],
+                    [
+                        "apples",
+                        "Meshes",
+                        "leaves"
+                    ],
+                    [
+                        "apples",
+                        "Meshes",
+                        "leaves 2"
+                    ],
+                    [
+                        "apples",
+                        "Meshes",
+                        "spaceApple"
+                    ],
+                    [
+                        "apples",
+                        "Textures1"
+                    ],
+                    [
+                        "apples",
+                        "appleTree"
                     ]
                 ]
             ]
         },
         "SceneTreeUiComponent": {
             "collapsedList": [
-                ""
+                [
+                    "1517446348227994:84813"
+                ]
             ],
             "selectionSetList": ""
         },
@@ -303,7 +237,9 @@
         },
         "InspectorUiComponent": {
             "collapsedList": [
-                ""
+                [
+                    "1665880221008290:79889"
+                ]
             ]
         },
         "ObjectTracking3DUIComponent": {
@@ -313,7 +249,7 @@
             "mapPinPoints": ""
         },
         "Material::UiComponent": {
-            "active_graph_asset": "1665862512647760:105610"
+            "active_graph_asset": "1665862363450799:93870"
         },
         "Script::UiComponent": {
             "active_graph_asset": "-1:-1"
@@ -446,14 +382,6 @@
                     "flags": "1"
                 },
                 {
-                    "resId": "23",
-                    "uid": "1665862363755169:93918",
-                    "name": "Files\/File27.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
                     "resId": "24",
                     "uid": "1665862363763108:93923",
                     "name": "Files\/File30",
@@ -465,14 +393,6 @@
                     "resId": "25",
                     "uid": "1665862364006108:93974",
                     "name": "Files\/File32",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "26",
-                    "uid": "1665862364241996:94023",
-                    "name": "Files\/File34",
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
@@ -505,14 +425,6 @@
                     "resId": "32",
                     "uid": "1665862512647760:105610",
                     "name": "Files\/File52",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "34",
-                    "uid": "1665862512917197:105663",
-                    "name": "Files\/File57",
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
@@ -684,6 +596,14 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
+                },
+                {
+                    "resId": "143",
+                    "uid": "1665880506401471:99844",
+                    "name": "Files\/File153.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -718,7 +638,11 @@
                 "8": "1665862541630074:108604",
                 "9": "1665864410944156:244142",
                 "10": "1665864410945364:244155",
-                "11": "1665864410946439:244168"
+                "11": "1665864410946439:244168",
+                "12": "1665879581863177:37389",
+                "13": "1665881046700302:144279",
+                "14": "1665881046702649:144297",
+                "15": "1665881046704312:144315"
             }
         },
         "LayerComponent": {
@@ -838,18 +762,6 @@
                     "v": "Files\/File26.lsmat"
                 },
                 {
-                    "k": "27",
-                    "v": "Files\/File27.pvr"
-                },
-                {
-                    "k": "28",
-                    "v": "Files\/File28.png"
-                },
-                {
-                    "k": "29",
-                    "v": "Files\/File29.png"
-                },
-                {
                     "k": "30",
                     "v": "Files\/File30"
                 },
@@ -864,14 +776,6 @@
                 {
                     "k": "33",
                     "v": "Files\/File33.lsmat"
-                },
-                {
-                    "k": "34",
-                    "v": "Files\/File34"
-                },
-                {
-                    "k": "35",
-                    "v": "Files\/File35.lsmat"
                 },
                 {
                     "k": "36",
@@ -902,10 +806,6 @@
                     "v": "Files\/File42.mesh"
                 },
                 {
-                    "k": "43",
-                    "v": "Files\/File43.pvr"
-                },
-                {
                     "k": "44",
                     "v": "Files\/File44.mesh"
                 },
@@ -920,14 +820,6 @@
                 {
                     "k": "53",
                     "v": "Files\/File53.lsmat"
-                },
-                {
-                    "k": "57",
-                    "v": "Files\/File57"
-                },
-                {
-                    "k": "58",
-                    "v": "Files\/File58.lsmat"
                 },
                 {
                     "k": "59",
@@ -1124,6 +1016,10 @@
                 {
                     "k": "150",
                     "v": "Files\/File150.pvr"
+                },
+                {
+                    "k": "153",
+                    "v": "Files\/File153.js"
                 }
             ]
         },
@@ -1143,471 +1039,336 @@
             "public": {
                 "pathes": [
                     {
-                        "k": "967",
+                        "k": "1",
                         "v": "Echopark.hdr"
                     },
                     {
-                        "k": "1062",
-                        "v": "white.png"
+                        "k": "2",
+                        "v": "apples.fbx"
                     },
                     {
-                        "k": "1063",
+                        "k": "3",
+                        "v": "..\/AdditionalFiles\/apples\/Textures1"
+                    },
+                    {
+                        "k": "4",
+                        "v": "..\/AdditionalFiles\/apples\/Textures1\/apple.png"
+                    },
+                    {
+                        "k": "5",
+                        "v": "..\/AdditionalFiles\/apples\/Textures1\/golden.png"
+                    },
+                    {
+                        "k": "6",
+                        "v": "..\/AdditionalFiles\/apples\/Textures1\/space.png"
+                    },
+                    {
+                        "k": "7",
+                        "v": "..\/AdditionalFiles\/apples\/Textures1\/Simple PBR.lsmat"
+                    },
+                    {
+                        "k": "8",
+                        "v": "..\/AdditionalFiles\/apples\/Textures1\/Unlit.lsmat"
+                    },
+                    {
+                        "k": "9",
+                        "v": "..\/AdditionalFiles\/apples\/Textures1\/Post Effect.lsmat"
+                    },
+                    {
+                        "k": "10",
+                        "v": "..\/AdditionalFiles\/apples\/Materials1"
+                    },
+                    {
+                        "k": "11",
+                        "v": "..\/AdditionalFiles\/apples\/Materials1\/galaApple.lsmat"
+                    },
+                    {
+                        "k": "12",
+                        "v": "..\/AdditionalFiles\/apples\/Materials1\/goldenApple.lsmat"
+                    },
+                    {
+                        "k": "13",
+                        "v": "..\/AdditionalFiles\/apples\/Materials1\/spaceApple.lsmat"
+                    },
+                    {
+                        "k": "14",
                         "v": "appleTree.fbx"
                     },
                     {
-                        "k": "1064",
-                        "v": "..\/AdditionalFiles\/appleTree\/Textures"
+                        "k": "15",
+                        "v": "..\/AdditionalFiles\/appleTree\/Textures1"
                     },
                     {
-                        "k": "1065",
-                        "v": "..\/AdditionalFiles\/appleTree\/Textures\/apple_color_bake.png"
+                        "k": "16",
+                        "v": "..\/AdditionalFiles\/appleTree\/Textures1\/apple_leaf_transparent.png"
                     },
                     {
-                        "k": "1066",
-                        "v": "..\/AdditionalFiles\/appleTree\/Textures\/golden.png"
+                        "k": "17",
+                        "v": "..\/AdditionalFiles\/appleTree\/Materials1"
                     },
                     {
-                        "k": "1067",
-                        "v": "..\/AdditionalFiles\/appleTree\/Textures\/space.png"
+                        "k": "18",
+                        "v": "..\/AdditionalFiles\/appleTree\/Materials1\/bark.lsmat"
                     },
                     {
-                        "k": "1069",
-                        "v": "..\/AdditionalFiles\/appleTree\/Materials"
+                        "k": "19",
+                        "v": "..\/AdditionalFiles\/appleTree\/Materials1\/bark_texture.jpg"
                     },
                     {
-                        "k": "1070",
-                        "v": "..\/AdditionalFiles\/appleTree\/Materials\/apple_material.lsmat"
+                        "k": "20",
+                        "v": "..\/AdditionalFiles\/appleTree\/Materials1\/bark_roughness.jpg"
                     },
                     {
-                        "k": "1071",
-                        "v": "..\/AdditionalFiles\/appleTree\/Materials\/goldenApple.lsmat"
+                        "k": "21",
+                        "v": "..\/AdditionalFiles\/appleTree\/Materials1\/bark_displacement.png"
                     },
                     {
-                        "k": "1072",
-                        "v": "..\/AdditionalFiles\/appleTree\/Materials\/space.lsmat"
+                        "k": "22",
+                        "v": "..\/AdditionalFiles\/appleTree\/Materials1\/leaf1.lsmat"
                     },
                     {
-                        "k": "1073",
-                        "v": "..\/AdditionalFiles\/appleTree\/Materials\/Leaf.lsmat"
-                    },
-                    {
-                        "k": "1077",
-                        "v": "appleTree 2.fbx"
-                    },
-                    {
-                        "k": "1078",
-                        "v": "..\/AdditionalFiles\/appleTree 2\/Textures"
-                    },
-                    {
-                        "k": "1081",
-                        "v": "..\/AdditionalFiles\/appleTree 2\/Textures\/apple_leaf_transparent.png"
-                    },
-                    {
-                        "k": "1082",
-                        "v": "..\/AdditionalFiles\/appleTree 2\/Materials"
-                    },
-                    {
-                        "k": "1083",
-                        "v": "..\/AdditionalFiles\/appleTree 2\/Materials\/bark.lsmat"
-                    },
-                    {
-                        "k": "1084",
-                        "v": "..\/AdditionalFiles\/appleTree 2\/Materials\/leaf2.lsmat"
-                    },
-                    {
-                        "k": "1085",
+                        "k": "23",
                         "v": "Textures"
                     },
                     {
-                        "k": "1086",
+                        "k": "24",
                         "v": "Textures\/Base.png"
                     },
                     {
-                        "k": "1087",
-                        "v": "Simple PBR.lsmat"
-                    },
-                    {
-                        "k": "1089",
+                        "k": "25",
                         "v": "Textures\/White.png"
                     },
                     {
-                        "k": "1090",
-                        "v": "Unlit.lsmat"
-                    },
-                    {
-                        "k": "1094",
+                        "k": "26",
                         "v": "Textures\/Beauty.png"
                     },
                     {
-                        "k": "1095",
-                        "v": "Post Effect.lsmat"
-                    },
-                    {
-                        "k": "1096",
-                        "v": "WorldObjectController"
-                    },
-                    {
-                        "k": "1097",
-                        "v": "WorldObjectController\/Textures"
-                    },
-                    {
-                        "k": "1098",
-                        "v": "WorldObjectController\/Textures\/ground_grid.png"
-                    },
-                    {
-                        "k": "1099",
-                        "v": "WorldObjectController\/Scripts"
-                    },
-                    {
-                        "k": "1100",
-                        "v": "WorldObjectController\/Scripts\/WorldObjectController.js"
-                    },
-                    {
-                        "k": "1101",
-                        "v": "WorldObjectController\/Meshes"
-                    },
-                    {
-                        "k": "1102",
-                        "v": "WorldObjectController\/Meshes\/touch_collision_cube.mesh"
-                    },
-                    {
-                        "k": "1103",
-                        "v": "WorldObjectController\/Meshes\/plane.mesh"
-                    },
-                    {
-                        "k": "1104",
-                        "v": "WorldObjectController\/Materials"
-                    },
-                    {
-                        "k": "1105",
-                        "v": "WorldObjectController\/Materials\/graph_matte_shadow.lsmat"
-                    },
-                    {
-                        "k": "1106",
-                        "v": "WorldObjectController\/Materials\/touch_collision.lsmat"
-                    },
-                    {
-                        "k": "1107",
-                        "v": "WorldObjectController\/Materials\/ground_grid.lsmat"
-                    },
-                    {
-                        "k": "1128",
+                        "k": "27",
                         "v": "Textures\/Normal.png"
                     },
                     {
-                        "k": "1129",
-                        "v": "leaf.lsmat"
+                        "k": "28",
+                        "v": "WorldObjectController"
                     },
                     {
-                        "k": "1130",
-                        "v": "bark_texture.jpg"
+                        "k": "29",
+                        "v": "WorldObjectController\/Textures"
                     },
                     {
-                        "k": "1131",
-                        "v": "bark_roughness.jpg"
+                        "k": "30",
+                        "v": "WorldObjectController\/Textures\/ground_grid.png"
                     },
                     {
-                        "k": "1132",
-                        "v": "bark_displacement.png"
+                        "k": "31",
+                        "v": "WorldObjectController\/Scripts"
+                    },
+                    {
+                        "k": "32",
+                        "v": "WorldObjectController\/Scripts\/WorldObjectController.js"
+                    },
+                    {
+                        "k": "33",
+                        "v": "WorldObjectController\/Meshes"
+                    },
+                    {
+                        "k": "34",
+                        "v": "WorldObjectController\/Meshes\/touch_collision_cube.mesh"
+                    },
+                    {
+                        "k": "35",
+                        "v": "WorldObjectController\/Meshes\/plane.mesh"
+                    },
+                    {
+                        "k": "36",
+                        "v": "WorldObjectController\/Materials"
+                    },
+                    {
+                        "k": "37",
+                        "v": "WorldObjectController\/Materials\/graph_matte_shadow.lsmat"
+                    },
+                    {
+                        "k": "38",
+                        "v": "WorldObjectController\/Materials\/touch_collision.lsmat"
+                    },
+                    {
+                        "k": "39",
+                        "v": "WorldObjectController\/Materials\/ground_grid.lsmat"
+                    },
+                    {
+                        "k": "41",
+                        "v": "applePicking.js"
                     }
                 ],
                 "hashes": [
                     {
                         "k": "1",
-                        "v": "671afbc1d6810060ccbaac866a91cfa1"
-                    },
-                    {
-                        "k": "2",
-                        "v": "8e599835d0d45c5879eafb1f474469cd"
-                    },
-                    {
-                        "k": "967",
                         "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
                     },
                     {
-                        "k": "1058",
-                        "v": "b3d5633647797a30b33e1b8cc53e8ddc"
-                    },
-                    {
-                        "k": "1059",
-                        "v": "97e7753bb033bb0ad0a9857c613d95b6"
-                    },
-                    {
-                        "k": "1060",
-                        "v": "5cf21c490457e0993dbaa5ec128a08f2"
-                    },
-                    {
-                        "k": "1061",
-                        "v": "d217a14fed316f264310945b4911a1bf"
-                    },
-                    {
-                        "k": "1062",
-                        "v": "5167f791115e0d7d62e5103740694a36"
-                    },
-                    {
-                        "k": "1063",
+                        "k": "2",
                         "v": "22d315d0fd029d6b01734ed7ac03f555"
                     },
                     {
-                        "k": "1065",
+                        "k": "4",
                         "v": "b3d5633647797a30b33e1b8cc53e8ddc"
                     },
                     {
-                        "k": "1066",
+                        "k": "5",
                         "v": "97e7753bb033bb0ad0a9857c613d95b6"
                     },
                     {
-                        "k": "1067",
+                        "k": "6",
                         "v": "5cf21c490457e0993dbaa5ec128a08f2"
                     },
                     {
-                        "k": "1068",
-                        "v": "d217a14fed316f264310945b4911a1bf"
+                        "k": "7",
+                        "v": "9a846e1f53776d11be64086b5c6cb82b"
                     },
                     {
-                        "k": "1070",
-                        "v": "5729570e156df7ad0904d8fa83ce7d29"
+                        "k": "8",
+                        "v": "a5a15d61be1cb432706fe09b710ccade"
                     },
                     {
-                        "k": "1071",
-                        "v": "4c452950965af422e9ad1e700b06dcfb"
+                        "k": "9",
+                        "v": "8c0a37c5caa7ae7b0833098e1f9736a4"
                     },
                     {
-                        "k": "1072",
-                        "v": "09c310ccb5744faceaf4e8b34d0a0ade"
+                        "k": "11",
+                        "v": "1c10b9059c7f9c2bf30e7e318898fefe"
                     },
                     {
-                        "k": "1073",
-                        "v": "ece3d0a93c0bc1fd7ead30708874ea5b"
+                        "k": "12",
+                        "v": "11e595607f4225a8a7fb44879e7a9d2e"
                     },
                     {
-                        "k": "1074",
-                        "v": "6669cca520594bdca19f94084984ab72"
+                        "k": "13",
+                        "v": "8975f4966e1198b65afdad3a6df7d079"
                     },
                     {
-                        "k": "1075",
-                        "v": "48cf9f66cadfd41b47789476b7233722"
-                    },
-                    {
-                        "k": "1076",
-                        "v": "5167f791115e0d7d62e5103740694a36"
-                    },
-                    {
-                        "k": "1077",
+                        "k": "14",
                         "v": "53724323e36d571e3afe1ae0128680bf"
                     },
                     {
-                        "k": "1079",
-                        "v": "6669cca520594bdca19f94084984ab72"
-                    },
-                    {
-                        "k": "1080",
-                        "v": "48cf9f66cadfd41b47789476b7233722"
-                    },
-                    {
-                        "k": "1081",
+                        "k": "16",
                         "v": "d217a14fed316f264310945b4911a1bf"
                     },
                     {
-                        "k": "1083",
-                        "v": "4e3fd1eed2dd34c2384e6195bcceb079"
+                        "k": "18",
+                        "v": "dca36a6fe40bc973815761f9f44f2a26"
                     },
                     {
-                        "k": "1084",
-                        "v": "08fecf5babc0bd94c63048e4dcb5bd9d"
-                    },
-                    {
-                        "k": "1086",
-                        "v": "cb607d7b25a160872c49fb4d2635cc33"
-                    },
-                    {
-                        "k": "1087",
-                        "v": "bba062bb5c58a096991ddf5aa6adb7e4"
-                    },
-                    {
-                        "k": "1088",
-                        "v": "992b0ecacc86ff7ad69b2646c15c3695"
-                    },
-                    {
-                        "k": "1089",
-                        "v": "0c8dcfed2f50bb81ac5276a14967c005"
-                    },
-                    {
-                        "k": "1090",
-                        "v": "abdba997554e6f87eb21ad1033778de3"
-                    },
-                    {
-                        "k": "1091",
-                        "v": "3ed7b21b9d5c5f54cd3b783d3e0a13f7"
-                    },
-                    {
-                        "k": "1092",
-                        "v": "81b7b2b4835266ef11d7d127c1079853"
-                    },
-                    {
-                        "k": "1093",
-                        "v": "bd7f9ff06c64cf675d155a7ea2074e3f"
-                    },
-                    {
-                        "k": "1094",
-                        "v": "a276acaed7d65e4c1b56181771677a77"
-                    },
-                    {
-                        "k": "1095",
-                        "v": "7cf924d4e67c615fa119f0ff8d714034"
-                    },
-                    {
-                        "k": "1098",
-                        "v": "26b5600591ba238fbcf5109847db6d02"
-                    },
-                    {
-                        "k": "1100",
-                        "v": "441e03e6cbaf2911803ef82a1578cb84"
-                    },
-                    {
-                        "k": "1102",
-                        "v": "e9167dc2c6b4be6840fd00390a21b633"
-                    },
-                    {
-                        "k": "1103",
-                        "v": "3924da4ece660b56cdcb4f2b7b3fe66c"
-                    },
-                    {
-                        "k": "1105",
-                        "v": "c0c32535a3d36530da236e069a68f426"
-                    },
-                    {
-                        "k": "1106",
-                        "v": "d5e6e2bf00ac519ca5cd77641342666b"
-                    },
-                    {
-                        "k": "1107",
-                        "v": "ae7017628f834c77076fd2b479f178b8"
-                    },
-                    {
-                        "k": "1110",
-                        "v": "6955ae436ec6a2c1fa59d00f761681f4"
-                    },
-                    {
-                        "k": "1111",
-                        "v": "0377342409f8ec90142150bdb61f7bc7"
-                    },
-                    {
-                        "k": "1113",
-                        "v": "cfb995f6f6bdb951ea945c298701ad69"
-                    },
-                    {
-                        "k": "1114",
-                        "v": "83952503d7715d6e7a4a382918761159"
-                    },
-                    {
-                        "k": "1115",
-                        "v": "be41801402376ae465615fd09cf21b74"
-                    },
-                    {
-                        "k": "1118",
-                        "v": "772bf52d906a9dce333a141669fcc47c"
-                    },
-                    {
-                        "k": "1119",
-                        "v": "080c813ef756e05510999d3cf905eb6e"
-                    },
-                    {
-                        "k": "1120",
-                        "v": "5167f791115e0d7d62e5103740694a36"
-                    },
-                    {
-                        "k": "1121",
-                        "v": "fe81660f7f10120e47d53f547d60da04"
-                    },
-                    {
-                        "k": "1123",
+                        "k": "19",
                         "v": "6669cca520594bdca19f94084984ab72"
                     },
                     {
-                        "k": "1124",
-                        "v": "48cf9f66cadfd41b47789476b7233722"
-                    },
-                    {
-                        "k": "1126",
-                        "v": "eb4b52f759c9989378195720fc12fd38"
-                    },
-                    {
-                        "k": "1127",
-                        "v": "69d744ab1533a40d3d4533530d9bd2b5"
-                    },
-                    {
-                        "k": "1128",
-                        "v": "8a0173d0b987e1abfebd4ef9e3304c0b"
-                    },
-                    {
-                        "k": "1129",
-                        "v": "0bfa6ec3951898602116f7a4ba7769ab"
-                    },
-                    {
-                        "k": "1130",
-                        "v": "6669cca520594bdca19f94084984ab72"
-                    },
-                    {
-                        "k": "1131",
+                        "k": "20",
                         "v": "bbcde696e5b9418cdcb2abe638965417"
                     },
                     {
-                        "k": "1132",
+                        "k": "21",
                         "v": "48cf9f66cadfd41b47789476b7233722"
+                    },
+                    {
+                        "k": "22",
+                        "v": "95a0f00e782ddb4855c5897dfadd1875"
+                    },
+                    {
+                        "k": "24",
+                        "v": "cb607d7b25a160872c49fb4d2635cc33"
+                    },
+                    {
+                        "k": "25",
+                        "v": "0c8dcfed2f50bb81ac5276a14967c005"
+                    },
+                    {
+                        "k": "26",
+                        "v": "a276acaed7d65e4c1b56181771677a77"
+                    },
+                    {
+                        "k": "27",
+                        "v": "8a0173d0b987e1abfebd4ef9e3304c0b"
+                    },
+                    {
+                        "k": "30",
+                        "v": "26b5600591ba238fbcf5109847db6d02"
+                    },
+                    {
+                        "k": "32",
+                        "v": "441e03e6cbaf2911803ef82a1578cb84"
+                    },
+                    {
+                        "k": "34",
+                        "v": "e9167dc2c6b4be6840fd00390a21b633"
+                    },
+                    {
+                        "k": "35",
+                        "v": "3924da4ece660b56cdcb4f2b7b3fe66c"
+                    },
+                    {
+                        "k": "37",
+                        "v": "d893d6ca1d8345b9ca07968f139008b9"
+                    },
+                    {
+                        "k": "38",
+                        "v": "f9cbdc035255ade274e013a881d73c9d"
+                    },
+                    {
+                        "k": "39",
+                        "v": "1f436031cd15bef8f925eae43c769491"
+                    },
+                    {
+                        "k": "40",
+                        "v": "494eedf4f72b5b66abb42e77205506db"
+                    },
+                    {
+                        "k": "41",
+                        "v": "bfdd42f2bfe0481f1cfcc633d2e261b6"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2022-10-15T20:00:13",
+                        "lastModified": "2022-10-15T20:43:52",
                         "name": "Public",
-                        "hash": "2bdffc31296a8440df901152c0b73c5a",
+                        "hash": "77fe357ccbf48b3346d07a63b8a7fb27",
                         "children": [
                             {
-                                "isFolder": "false",
-                                "lastModified": "2022-10-15T15:47:55",
-                                "name": "Simple PBR.lsmat",
-                                "hash": "bba062bb5c58a096991ddf5aa6adb7e4",
-                                "children": ""
-                            },
-                            {
                                 "isFolder": "true",
-                                "lastModified": "2022-10-15T16:43:45",
+                                "lastModified": "2022-10-15T20:13:32",
                                 "name": "Textures",
                                 "hash": "6222f84e513d047119f8623129be7d7a",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-10-15T15:58:36",
+                                        "lastModified": "2022-10-15T20:13:29",
                                         "name": "Beauty.png",
                                         "hash": "a276acaed7d65e4c1b56181771677a77",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-10-15T15:47:54",
+                                        "lastModified": "2022-10-15T20:13:29",
                                         "name": "Base.png",
                                         "hash": "cb607d7b25a160872c49fb4d2635cc33",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-10-15T16:43:45",
+                                        "lastModified": "2022-10-15T20:13:29",
                                         "name": "Normal.png",
                                         "hash": "8a0173d0b987e1abfebd4ef9e3304c0b",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-10-15T15:53:40",
+                                        "lastModified": "2022-10-15T20:13:29",
                                         "name": "White.png",
                                         "hash": "0c8dcfed2f50bb81ac5276a14967c005",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-10-15T15:47:54",
+                                        "lastModified": "2022-10-15T20:13:32",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -1616,61 +1377,47 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2022-10-15T16:43:45",
-                                "name": "leaf.lsmat",
-                                "hash": "0bfa6ec3951898602116f7a4ba7769ab",
-                                "children": ""
-                            },
-                            {
-                                "isFolder": "false",
-                                "lastModified": "2022-10-14T23:01:58",
-                                "name": "bark_roughness.jpg",
-                                "hash": "bbcde696e5b9418cdcb2abe638965417",
-                                "children": ""
-                            },
-                            {
-                                "isFolder": "false",
-                                "lastModified": "2022-10-14T23:01:58",
-                                "name": "bark_texture.jpg",
-                                "hash": "6669cca520594bdca19f94084984ab72",
-                                "children": ""
-                            },
-                            {
-                                "isFolder": "false",
-                                "lastModified": "2022-10-14T23:01:58",
-                                "name": "bark_displacement.png",
-                                "hash": "48cf9f66cadfd41b47789476b7233722",
-                                "children": ""
-                            },
-                            {
-                                "isFolder": "false",
-                                "lastModified": "2022-10-15T15:32:03",
-                                "name": "appleTree.fbx",
+                                "lastModified": "2022-10-15T20:13:29",
+                                "name": "apples.fbx",
                                 "hash": "22d315d0fd029d6b01734ed7ac03f555",
                                 "children": ""
                             },
                             {
+                                "isFolder": "false",
+                                "lastModified": "2022-10-15T20:41:00",
+                                "name": "applePicking.js",
+                                "hash": "bfdd42f2bfe0481f1cfcc633d2e261b6",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-10-15T20:13:29",
+                                "name": "appleTree.fbx",
+                                "hash": "53724323e36d571e3afe1ae0128680bf",
+                                "children": ""
+                            },
+                            {
                                 "isFolder": "true",
-                                "lastModified": "2022-10-15T16:20:19",
+                                "lastModified": "2022-10-15T20:13:32",
                                 "name": "WorldObjectController",
-                                "hash": "3c864f2b5aafb34307a8650b49f50542",
+                                "hash": "2bb525740cae24900828b5e0532f157f",
                                 "children": [
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-10-15T16:20:19",
+                                        "lastModified": "2022-10-15T20:13:32",
                                         "name": "Textures",
                                         "hash": "c165261cecff61dd56883a587688fc40",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-10-15T16:06:49",
+                                                "lastModified": "2022-10-15T20:13:29",
                                                 "name": "ground_grid.png",
                                                 "hash": "26b5600591ba238fbcf5109847db6d02",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-10-15T16:06:49",
+                                                "lastModified": "2022-10-15T20:13:32",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -1679,34 +1426,34 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-10-15T16:20:19",
+                                        "lastModified": "2022-10-15T20:13:32",
                                         "name": "Materials",
-                                        "hash": "2aea237c0cc0df28493feb39e0a889bf",
+                                        "hash": "c0d1d6f8f47dc8d39a8615cb1ca683d0",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-10-15T16:06:50",
+                                                "lastModified": "2022-10-15T20:13:29",
                                                 "name": "ground_grid.lsmat",
-                                                "hash": "ae7017628f834c77076fd2b479f178b8",
+                                                "hash": "1f436031cd15bef8f925eae43c769491",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-10-15T16:06:50",
+                                                "lastModified": "2022-10-15T20:13:29",
                                                 "name": "touch_collision.lsmat",
-                                                "hash": "d5e6e2bf00ac519ca5cd77641342666b",
+                                                "hash": "f9cbdc035255ade274e013a881d73c9d",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-10-15T16:06:50",
+                                                "lastModified": "2022-10-15T20:13:29",
                                                 "name": "graph_matte_shadow.lsmat",
-                                                "hash": "c0c32535a3d36530da236e069a68f426",
+                                                "hash": "d893d6ca1d8345b9ca07968f139008b9",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-10-15T16:06:50",
+                                                "lastModified": "2022-10-15T20:13:32",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -1715,27 +1462,27 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-10-15T16:20:19",
+                                        "lastModified": "2022-10-15T20:13:32",
                                         "name": "Meshes",
                                         "hash": "f0362812682ac9944a312513fd031064",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-10-15T16:06:49",
+                                                "lastModified": "2022-10-15T20:13:29",
                                                 "name": "touch_collision_cube.mesh",
                                                 "hash": "e9167dc2c6b4be6840fd00390a21b633",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-10-15T16:06:49",
+                                                "lastModified": "2022-10-15T20:13:29",
                                                 "name": "plane.mesh",
                                                 "hash": "3924da4ece660b56cdcb4f2b7b3fe66c",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-10-15T16:06:49",
+                                                "lastModified": "2022-10-15T20:13:32",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -1744,20 +1491,20 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-10-15T16:20:19",
+                                        "lastModified": "2022-10-15T20:13:32",
                                         "name": "Scripts",
                                         "hash": "9ff61bcbe2ee900b5e696113446bec86",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-10-15T16:06:49",
+                                                "lastModified": "2022-10-15T20:13:29",
                                                 "name": "WorldObjectController.js",
                                                 "hash": "441e03e6cbaf2911803ef82a1578cb84",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-10-15T16:06:49",
+                                                "lastModified": "2022-10-15T20:13:32",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -1766,7 +1513,7 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-10-15T16:06:49",
+                                        "lastModified": "2022-10-15T20:13:32",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -1775,42 +1522,14 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2022-10-15T15:34:40",
-                                "name": "appleTree 2.fbx",
-                                "hash": "53724323e36d571e3afe1ae0128680bf",
-                                "children": ""
-                            },
-                            {
-                                "isFolder": "false",
-                                "lastModified": "2022-10-15T15:58:36",
-                                "name": "Post Effect.lsmat",
-                                "hash": "7cf924d4e67c615fa119f0ff8d714034",
-                                "children": ""
-                            },
-                            {
-                                "isFolder": "false",
-                                "lastModified": "2022-10-02T22:25:20",
+                                "lastModified": "2022-10-15T20:13:29",
                                 "name": "Echopark.hdr",
                                 "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2022-10-02T22:25:20",
-                                "name": "white.png",
-                                "hash": "5167f791115e0d7d62e5103740694a36",
-                                "children": ""
-                            },
-                            {
-                                "isFolder": "false",
-                                "lastModified": "2022-10-15T15:53:40",
-                                "name": "Unlit.lsmat",
-                                "hash": "abdba997554e6f87eb21ad1033778de3",
-                                "children": ""
-                            },
-                            {
-                                "isFolder": "false",
-                                "lastModified": "2022-10-02T22:25:20",
+                                "lastModified": "2022-10-15T20:13:32",
                                 "name": "folder.lock",
                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                 "children": ""
@@ -1888,7 +1607,7 @@
                         "uid": "-1:-1",
                         "fileId": "7",
                         "originalId": "18446744073709551615",
-                        "publicId": "967",
+                        "publicId": "1",
                         "source": "",
                         "additional": "",
                         "resources": [
@@ -1923,23 +1642,7 @@
                         ]
                     },
                     {
-                        "name": "white",
-                        "type": "1",
-                        "subtype": "9",
-                        "resourceId": "23",
-                        "dependency": "0",
-                        "hidden": "false",
-                        "uid": "1665862363755169:93918",
-                        "fileId": "27",
-                        "originalId": "28",
-                        "publicId": "1062",
-                        "source": "\/Volumes\/AshK_drive\/Other\/Applications\/Lens Studio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/materials\/textures\/white.png",
-                        "additional": {
-                            "originHash": "5167f791115e0d7d62e5103740694a36"
-                        }
-                    },
-                    {
-                        "name": "appleTree",
+                        "name": "apples",
                         "type": "18",
                         "subtype": "-1",
                         "resourceId": "-1",
@@ -1948,7 +1651,7 @@
                         "uid": "-1:-1",
                         "fileId": "37",
                         "originalId": "18446744073709551615",
-                        "publicId": "1063",
+                        "publicId": "2",
                         "source": "\/Users\/ashk\/Desktop\/AR_appleTree\/AR_ApplePicking\/appleTree.fbx",
                         "additional": {
                             "materialMapping": [
@@ -2214,7 +1917,7 @@
                                 ]
                             },
                             {
-                                "name": "Textures",
+                                "name": "Textures1",
                                 "type": "0",
                                 "subtype": "-1",
                                 "resourceId": "-1",
@@ -2223,12 +1926,12 @@
                                 "uid": "-1:-1",
                                 "fileId": "18446744073709551615",
                                 "originalId": "18446744073709551615",
-                                "publicId": "1064",
+                                "publicId": "3",
                                 "source": "",
                                 "additional": "",
                                 "resources": [
                                     {
-                                        "name": "apple_color_bake",
+                                        "name": "apple",
                                         "type": "1",
                                         "subtype": "9",
                                         "resourceId": "18",
@@ -2237,7 +1940,7 @@
                                         "uid": "1665862363287016:93828",
                                         "fileId": "13",
                                         "originalId": "14",
-                                        "publicId": "1065",
+                                        "publicId": "4",
                                         "source": "\/Users\/ashk\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioHkHRKwXDLzUj\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
                                         "additional": {
                                             "originHash": "b3d5633647797a30b33e1b8cc53e8ddc"
@@ -2253,7 +1956,7 @@
                                         "uid": "1665862363387702:93839",
                                         "fileId": "16",
                                         "originalId": "17",
-                                        "publicId": "1066",
+                                        "publicId": "5",
                                         "source": "\/Users\/ashk\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioHkHRKwXDLzUj\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
                                         "additional": {
                                             "originHash": "97e7753bb033bb0ad0a9857c613d95b6"
@@ -2269,16 +1972,58 @@
                                         "uid": "1665862363402734:93848",
                                         "fileId": "19",
                                         "originalId": "20",
-                                        "publicId": "1067",
+                                        "publicId": "6",
                                         "source": "\/Users\/ashk\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioHkHRKwXDLzUj\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
                                         "additional": {
                                             "originHash": "5cf21c490457e0993dbaa5ec128a08f2"
                                         }
+                                    },
+                                    {
+                                        "name": "Simple PBR",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "36",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1665863274868795:156090",
+                                        "fileId": "66",
+                                        "originalId": "67",
+                                        "publicId": "7",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Unlit",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "40",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1665863619973734:181868",
+                                        "fileId": "72",
+                                        "originalId": "73",
+                                        "publicId": "8",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Post Effect",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "45",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1665863916044859:206779",
+                                        "fileId": "82",
+                                        "originalId": "83",
+                                        "publicId": "9",
+                                        "source": "",
+                                        "additional": ""
                                     }
                                 ]
                             },
                             {
-                                "name": "Materials",
+                                "name": "Materials1",
                                 "type": "0",
                                 "subtype": "-1",
                                 "resourceId": "-1",
@@ -2287,12 +2032,12 @@
                                 "uid": "-1:-1",
                                 "fileId": "18446744073709551615",
                                 "originalId": "18446744073709551615",
-                                "publicId": "1069",
+                                "publicId": "10",
                                 "source": "",
                                 "additional": "",
                                 "resources": [
                                     {
-                                        "name": "apple_material",
+                                        "name": "galaApple",
                                         "type": "2",
                                         "subtype": "1",
                                         "resourceId": "22",
@@ -2301,7 +2046,7 @@
                                         "uid": "1665862363450799:93870",
                                         "fileId": "25",
                                         "originalId": "26",
-                                        "publicId": "1070",
+                                        "publicId": "11",
                                         "source": "",
                                         "additional": ""
                                     },
@@ -2315,12 +2060,12 @@
                                         "uid": "1665862363763108:93923",
                                         "fileId": "30",
                                         "originalId": "31",
-                                        "publicId": "1071",
+                                        "publicId": "12",
                                         "source": "",
                                         "additional": ""
                                     },
                                     {
-                                        "name": "space",
+                                        "name": "spaceApple",
                                         "type": "2",
                                         "subtype": "1",
                                         "resourceId": "25",
@@ -2329,21 +2074,7 @@
                                         "uid": "1665862364006108:93974",
                                         "fileId": "32",
                                         "originalId": "33",
-                                        "publicId": "1072",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "Leaf",
-                                        "type": "2",
-                                        "subtype": "1",
-                                        "resourceId": "26",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1665862364241996:94023",
-                                        "fileId": "34",
-                                        "originalId": "35",
-                                        "publicId": "1073",
+                                        "publicId": "13",
                                         "source": "",
                                         "additional": ""
                                     }
@@ -2366,7 +2097,7 @@
                         ]
                     },
                     {
-                        "name": "appleTree 2",
+                        "name": "appleTree",
                         "type": "18",
                         "subtype": "-1",
                         "resourceId": "-1",
@@ -2375,7 +2106,7 @@
                         "uid": "-1:-1",
                         "fileId": "60",
                         "originalId": "18446744073709551615",
-                        "publicId": "1077",
+                        "publicId": "14",
                         "source": "\/Users\/ashk\/Desktop\/AR_appleTree\/AR_ApplePicking\/appleTree.fbx",
                         "additional": {
                             "materialMapping": [
@@ -2498,7 +2229,7 @@
                                 ]
                             },
                             {
-                                "name": "Textures",
+                                "name": "Textures1",
                                 "type": "0",
                                 "subtype": "-1",
                                 "resourceId": "-1",
@@ -2507,7 +2238,7 @@
                                 "uid": "-1:-1",
                                 "fileId": "18446744073709551615",
                                 "originalId": "18446744073709551615",
-                                "publicId": "1078",
+                                "publicId": "15",
                                 "source": "",
                                 "additional": "",
                                 "resources": [
@@ -2521,7 +2252,7 @@
                                         "uid": "1665862363426869:93859",
                                         "fileId": "22",
                                         "originalId": "23",
-                                        "publicId": "1081",
+                                        "publicId": "16",
                                         "source": "\/Users\/ashk\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioHkHRKwXDLzUj\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
                                         "additional": {
                                             "originHash": "d217a14fed316f264310945b4911a1bf"
@@ -2530,7 +2261,7 @@
                                 ]
                             },
                             {
-                                "name": "Materials",
+                                "name": "Materials1",
                                 "type": "0",
                                 "subtype": "-1",
                                 "resourceId": "-1",
@@ -2539,7 +2270,7 @@
                                 "uid": "-1:-1",
                                 "fileId": "18446744073709551615",
                                 "originalId": "18446744073709551615",
-                                "publicId": "1082",
+                                "publicId": "17",
                                 "source": "",
                                 "additional": "",
                                 "resources": [
@@ -2553,21 +2284,69 @@
                                         "uid": "1665862512647760:105610",
                                         "fileId": "52",
                                         "originalId": "53",
-                                        "publicId": "1083",
+                                        "publicId": "18",
                                         "source": "",
                                         "additional": ""
                                     },
                                     {
-                                        "name": "leaf2",
-                                        "type": "2",
-                                        "subtype": "1",
-                                        "resourceId": "34",
+                                        "name": "bark_texture",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "139",
                                         "dependency": "0",
                                         "hidden": "false",
-                                        "uid": "1665862512917197:105663",
-                                        "fileId": "57",
-                                        "originalId": "58",
-                                        "publicId": "1084",
+                                        "uid": "1665878030534410:34683",
+                                        "fileId": "139",
+                                        "originalId": "140",
+                                        "publicId": "19",
+                                        "source": "\/Users\/ashk\/Desktop\/AR_appleTree\/AR_ApplePicking\/bark_texture.jpg",
+                                        "additional": {
+                                            "originHash": "6669cca520594bdca19f94084984ab72"
+                                        }
+                                    },
+                                    {
+                                        "name": "bark_roughness",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "140",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1665878111942375:42472",
+                                        "fileId": "143",
+                                        "originalId": "144",
+                                        "publicId": "20",
+                                        "source": "\/Users\/ashk\/Desktop\/AR_appleTree\/AR_ApplePicking\/bark_roughness.jpg",
+                                        "additional": {
+                                            "originHash": "bbcde696e5b9418cdcb2abe638965417"
+                                        }
+                                    },
+                                    {
+                                        "name": "bark_displacement",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "141",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1665878412658950:64513",
+                                        "fileId": "147",
+                                        "originalId": "148",
+                                        "publicId": "21",
+                                        "source": "\/Users\/ashk\/Desktop\/AR_appleTree\/AR_ApplePicking\/bark_displacement.png",
+                                        "additional": {
+                                            "originHash": "48cf9f66cadfd41b47789476b7233722"
+                                        }
+                                    },
+                                    {
+                                        "name": "leaf1",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "137",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1665866624984468:123919",
+                                        "fileId": "135",
+                                        "originalId": "136",
+                                        "publicId": "22",
                                         "source": "",
                                         "additional": ""
                                     }
@@ -2599,7 +2378,7 @@
                         "uid": "-1:-1",
                         "fileId": "18446744073709551615",
                         "originalId": "18446744073709551615",
-                        "publicId": "1085",
+                        "publicId": "23",
                         "source": "",
                         "additional": "",
                         "resources": [
@@ -2613,7 +2392,7 @@
                                 "uid": "1665863274958361:156125",
                                 "fileId": "68",
                                 "originalId": "69",
-                                "publicId": "1086",
+                                "publicId": "24",
                                 "source": "\/Users\/ashk\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioHkHRKwXDLzUj\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
                                 "additional": {
                                     "originHash": "cb607d7b25a160872c49fb4d2635cc33"
@@ -2643,7 +2422,7 @@
                                 "uid": "1665863620058561:181905",
                                 "fileId": "74",
                                 "originalId": "75",
-                                "publicId": "1089",
+                                "publicId": "25",
                                 "source": "\/Users\/ashk\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioHkHRKwXDLzUj\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
                                 "additional": {
                                     "originHash": "0c8dcfed2f50bb81ac5276a14967c005"
@@ -2659,7 +2438,7 @@
                                 "uid": "1665863916132780:206826",
                                 "fileId": "84",
                                 "originalId": "85",
-                                "publicId": "1094",
+                                "publicId": "26",
                                 "source": "\/Users\/ashk\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioHkHRKwXDLzUj\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
                                 "additional": {
                                     "originHash": "a276acaed7d65e4c1b56181771677a77"
@@ -2689,55 +2468,13 @@
                                 "uid": "1665866625112449:123971",
                                 "fileId": "137",
                                 "originalId": "138",
-                                "publicId": "1128",
+                                "publicId": "27",
                                 "source": "\/Users\/ashk\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioZLTBhpsqHokT\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
                                 "additional": {
                                     "originHash": "8a0173d0b987e1abfebd4ef9e3304c0b"
                                 }
                             }
                         ]
-                    },
-                    {
-                        "name": "Simple PBR",
-                        "type": "2",
-                        "subtype": "1",
-                        "resourceId": "36",
-                        "dependency": "0",
-                        "hidden": "false",
-                        "uid": "1665863274868795:156090",
-                        "fileId": "66",
-                        "originalId": "67",
-                        "publicId": "1087",
-                        "source": "",
-                        "additional": ""
-                    },
-                    {
-                        "name": "Unlit",
-                        "type": "2",
-                        "subtype": "1",
-                        "resourceId": "40",
-                        "dependency": "0",
-                        "hidden": "false",
-                        "uid": "1665863619973734:181868",
-                        "fileId": "72",
-                        "originalId": "73",
-                        "publicId": "1090",
-                        "source": "",
-                        "additional": ""
-                    },
-                    {
-                        "name": "Post Effect",
-                        "type": "2",
-                        "subtype": "1",
-                        "resourceId": "45",
-                        "dependency": "0",
-                        "hidden": "false",
-                        "uid": "1665863916044859:206779",
-                        "fileId": "82",
-                        "originalId": "83",
-                        "publicId": "1095",
-                        "source": "",
-                        "additional": ""
                     },
                     {
                         "name": "WorldObjectController",
@@ -2749,7 +2486,7 @@
                         "uid": "-1:-1",
                         "fileId": "18446744073709551615",
                         "originalId": "18446744073709551615",
-                        "publicId": "1096",
+                        "publicId": "28",
                         "source": "",
                         "additional": "",
                         "resources": [
@@ -2763,7 +2500,7 @@
                                 "uid": "-1:-1",
                                 "fileId": "18446744073709551615",
                                 "originalId": "18446744073709551615",
-                                "publicId": "1097",
+                                "publicId": "29",
                                 "source": "",
                                 "additional": "",
                                 "resources": [
@@ -2777,7 +2514,7 @@
                                         "uid": "1665864409599135:243294",
                                         "fileId": "86",
                                         "originalId": "87",
-                                        "publicId": "1098",
+                                        "publicId": "30",
                                         "source": "\/Users\/ashk\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioHkHRKwXDLzUj\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
                                         "additional": {
                                             "originHash": "26b5600591ba238fbcf5109847db6d02",
@@ -2796,7 +2533,7 @@
                                 "uid": "-1:-1",
                                 "fileId": "18446744073709551615",
                                 "originalId": "18446744073709551615",
-                                "publicId": "1099",
+                                "publicId": "31",
                                 "source": "",
                                 "additional": "",
                                 "resources": [
@@ -2810,7 +2547,7 @@
                                         "uid": "1665864409962351:243304",
                                         "fileId": "89",
                                         "originalId": "18446744073709551615",
-                                        "publicId": "1100",
+                                        "publicId": "32",
                                         "source": "\/Users\/ashk\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioHkHRKwXDLzUj\/\/system\/\/emergencyFiles\/emergencyJs.js",
                                         "additional": ""
                                     }
@@ -2826,7 +2563,7 @@
                                 "uid": "-1:-1",
                                 "fileId": "18446744073709551615",
                                 "originalId": "18446744073709551615",
-                                "publicId": "1101",
+                                "publicId": "33",
                                 "source": "",
                                 "additional": "",
                                 "resources": [
@@ -2840,7 +2577,7 @@
                                         "uid": "1665864409997247:243316",
                                         "fileId": "90",
                                         "originalId": "18446744073709551615",
-                                        "publicId": "1102",
+                                        "publicId": "34",
                                         "source": "\/Users\/ashk\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioHkHRKwXDLzUj\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
                                         "additional": {
                                             "info": {
@@ -2880,7 +2617,7 @@
                                         "uid": "1665864410026959:243329",
                                         "fileId": "92",
                                         "originalId": "18446744073709551615",
-                                        "publicId": "1103",
+                                        "publicId": "35",
                                         "source": "\/Users\/ashk\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioHkHRKwXDLzUj\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
                                         "additional": {
                                             "originalAttribs": {
@@ -2946,7 +2683,7 @@
                                 "uid": "-1:-1",
                                 "fileId": "18446744073709551615",
                                 "originalId": "18446744073709551615",
-                                "publicId": "1104",
+                                "publicId": "36",
                                 "source": "",
                                 "additional": "",
                                 "resources": [
@@ -2960,7 +2697,7 @@
                                         "uid": "1665864410085736:243341",
                                         "fileId": "94",
                                         "originalId": "95",
-                                        "publicId": "1105",
+                                        "publicId": "37",
                                         "source": "",
                                         "additional": ""
                                     },
@@ -2974,7 +2711,7 @@
                                         "uid": "1665864410217812:243421",
                                         "fileId": "96",
                                         "originalId": "97",
-                                        "publicId": "1106",
+                                        "publicId": "38",
                                         "source": "",
                                         "additional": ""
                                     },
@@ -2988,7 +2725,7 @@
                                         "uid": "1665864410356733:243440",
                                         "fileId": "98",
                                         "originalId": "99",
-                                        "publicId": "1107",
+                                        "publicId": "39",
                                         "source": "",
                                         "additional": ""
                                     }
@@ -2997,81 +2734,26 @@
                         ]
                     },
                     {
-                        "name": "leaf",
-                        "type": "2",
-                        "subtype": "1",
-                        "resourceId": "137",
+                        "name": "applePicking",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "143",
                         "dependency": "0",
                         "hidden": "false",
-                        "uid": "1665866624984468:123919",
-                        "fileId": "135",
-                        "originalId": "136",
-                        "publicId": "1129",
-                        "source": "",
+                        "uid": "1665880506401471:99844",
+                        "fileId": "153",
+                        "originalId": "18446744073709551615",
+                        "publicId": "41",
+                        "source": "\/Users\/ashk\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudiohftQikdbgowO\/\/system\/\/emergencyFiles\/emergencyJs.js",
                         "additional": ""
-                    },
-                    {
-                        "name": "bark_texture",
-                        "type": "1",
-                        "subtype": "9",
-                        "resourceId": "139",
-                        "dependency": "0",
-                        "hidden": "false",
-                        "uid": "1665878030534410:34683",
-                        "fileId": "139",
-                        "originalId": "140",
-                        "publicId": "1130",
-                        "source": "\/Users\/ashk\/Desktop\/AR_appleTree\/AR_ApplePicking\/bark_texture.jpg",
-                        "additional": {
-                            "originHash": "6669cca520594bdca19f94084984ab72"
-                        }
-                    },
-                    {
-                        "name": "bark_roughness",
-                        "type": "1",
-                        "subtype": "9",
-                        "resourceId": "140",
-                        "dependency": "0",
-                        "hidden": "false",
-                        "uid": "1665878111942375:42472",
-                        "fileId": "143",
-                        "originalId": "144",
-                        "publicId": "1131",
-                        "source": "\/Users\/ashk\/Desktop\/AR_appleTree\/AR_ApplePicking\/bark_roughness.jpg",
-                        "additional": {
-                            "originHash": "bbcde696e5b9418cdcb2abe638965417"
-                        }
-                    },
-                    {
-                        "name": "bark_displacement",
-                        "type": "1",
-                        "subtype": "9",
-                        "resourceId": "141",
-                        "dependency": "0",
-                        "hidden": "false",
-                        "uid": "1665878412658950:64513",
-                        "fileId": "147",
-                        "originalId": "148",
-                        "publicId": "1132",
-                        "source": "\/Users\/ashk\/Desktop\/AR_appleTree\/AR_ApplePicking\/bark_displacement.png",
-                        "additional": {
-                            "originHash": "48cf9f66cadfd41b47789476b7233722"
-                        }
                     }
                 ]
             }
         },
         "InspectorController": {
             "selection": {
-                "resources": [
-                    {
-                        "uid": "1665862512647760:105610",
-                        "path_list": [
-                            "appleTree 2",
-                            "Materials",
-                            "bark"
-                        ]
-                    }
+                "objects": [
+                    "1665862427099003:99568"
                 ]
             }
         },
@@ -3609,34 +3291,6 @@
                         },
                         "uncompressed_file": "24",
                         "compressed_files": ""
-                    }
-                },
-                {
-                    "k": "1665862363755169:93918",
-                    "v": {
-                        "infos": {
-                            "originalSize": "4052",
-                            "compressedSize": "219",
-                            "originalRAM": "262144",
-                            "compressedRAM": "32768",
-                            "extension": "png",
-                            "settings": {
-                                "isCompressed": "true",
-                                "level": "2",
-                                "type": "1",
-                                "subtype": "9"
-                            }
-                        },
-                        "uncompressed_file": "29",
-                        "compressed_files": [
-                            {
-                                "k": {
-                                    "uncompressed_hash": "5167f791115e0d7d62e5103740694a36",
-                                    "settings_hash": "2049"
-                                },
-                                "v": "43"
-                            }
-                        ]
                     }
                 },
                 {
