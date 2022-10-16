@@ -3,7 +3,7 @@
     "document_id": "4evVZ8Gq5pE_HQFyuULN",
     "original_document_id": "uD8Mht1sQzFRghx9mVbo",
     "version": "29",
-    "lastChanged": "1665891395907",
+    "lastChanged": "1665894432136",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -41,6 +41,22 @@
                     [
                         "Echopark",
                         "Specular"
+                    ],
+                    [
+                        "Particles",
+                        "Particles Emitter Material"
+                    ],
+                    [
+                        "Particles",
+                        "Particles Mesh"
+                    ],
+                    [
+                        "Particles",
+                        "Particles Texture"
+                    ],
+                    [
+                        "Particles",
+                        "sparkle"
                     ],
                     [
                         "Text3D Default"
@@ -225,7 +241,7 @@
         "PreviewUiComponent": {
             "preview_descriptor": {
                 "is_capture": "0",
-                "camera_type": "2"
+                "camera_type": "1"
             },
             "show_snap_ui": "true",
             "show_sponsored_ui": "false",
@@ -253,7 +269,8 @@
                 [
                     "1665880221008290:79889",
                     "1665882557843585:257642"
-                ]
+                ],
+                ""
             ]
         },
         "ObjectTracking3DUIComponent": {
@@ -666,6 +683,38 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "0"
+                },
+                {
+                    "resId": "153",
+                    "uid": "1665892823540132:1494802",
+                    "name": "Files\/File163.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "154",
+                    "uid": "1665892823623705:1494812",
+                    "name": "Files\/File165",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "155",
+                    "uid": "1665892823733775:1494825",
+                    "name": "Files\/File167.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "156",
+                    "uid": "1665893128800491:1499003",
+                    "name": "Files\/File171.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -750,7 +799,13 @@
                 "15": "1665882630543254:267643",
                 "16": "1665882630936362:267981",
                 "17": "1665891230466224:1424752",
-                "18": "1665891230478852:1424877"
+                "18": "1665891230478852:1424877",
+                "19": "1665891471973894:1467001",
+                "20": "1665891471977129:1467019",
+                "21": "1665892824430122:1494834",
+                "22": "1665893932109461:1514091",
+                "23": "1665894178884717:1537770",
+                "24": "1665894178885821:1537772"
             }
         },
         "LayerComponent": {
@@ -1148,6 +1203,54 @@
                 {
                     "k": "160",
                     "v": "Files\/File160.js"
+                },
+                {
+                    "k": "163",
+                    "v": "Files\/File163.mesh"
+                },
+                {
+                    "k": "164",
+                    "v": "Files\/File164.mesh"
+                },
+                {
+                    "k": "165",
+                    "v": "Files\/File165"
+                },
+                {
+                    "k": "166",
+                    "v": "Files\/File166.lsmat"
+                },
+                {
+                    "k": "167",
+                    "v": "Files\/File167.png"
+                },
+                {
+                    "k": "168",
+                    "v": "Files\/File168.png"
+                },
+                {
+                    "k": "169",
+                    "v": "Files\/File169.png"
+                },
+                {
+                    "k": "170",
+                    "v": "Files\/File170.png"
+                },
+                {
+                    "k": "171",
+                    "v": "Files\/File171.pvr"
+                },
+                {
+                    "k": "172",
+                    "v": "Files\/File172.png"
+                },
+                {
+                    "k": "173",
+                    "v": "Files\/File173.png"
+                },
+                {
+                    "k": "174",
+                    "v": "Files\/File174.pvr"
                 }
             ]
         },
@@ -1337,6 +1440,26 @@
                     {
                         "k": "45",
                         "v": "appleOnHand.js"
+                    },
+                    {
+                        "k": "47",
+                        "v": "Particles"
+                    },
+                    {
+                        "k": "48",
+                        "v": "Particles\/Particles Mesh.mesh"
+                    },
+                    {
+                        "k": "49",
+                        "v": "Particles\/Particles Emitter Material.lsmat"
+                    },
+                    {
+                        "k": "50",
+                        "v": "Particles\/Particles Texture.png"
+                    },
+                    {
+                        "k": "51",
+                        "v": "Particles\/sparkle.png"
                     }
                 ],
                 "hashes": [
@@ -1483,14 +1606,30 @@
                     {
                         "k": "46",
                         "v": "494eedf4f72b5b66abb42e77205506db"
+                    },
+                    {
+                        "k": "48",
+                        "v": "9cf6125d8ce9ba874fe0ff27b21b2323"
+                    },
+                    {
+                        "k": "49",
+                        "v": "07346ab599a5fcb17e4035a265d74f73"
+                    },
+                    {
+                        "k": "50",
+                        "v": "b4bcc9a3107b386b1f0b32d6c40455ef"
+                    },
+                    {
+                        "k": "51",
+                        "v": "fd3426f1c083cfa8af1fd8c6e657a15f"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2022-10-15T23:07:29",
+                        "lastModified": "2022-10-16T00:00:23",
                         "name": "Public",
-                        "hash": "fba85a92a0b49f8334d5928a91bcd837",
+                        "hash": "ddaa1f60da8a91a5bc2f320d858a12d6",
                         "children": [
                             {
                                 "isFolder": "true",
@@ -1555,6 +1694,49 @@
                                 "name": "appleOnHand.js",
                                 "hash": "e75de7f736cd170c8987a14f3be64b1a",
                                 "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-10-16T00:24:36",
+                                "name": "Particles",
+                                "hash": "e4b76fc47e31d15de9de031aff797d2b",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-10-16T00:05:06",
+                                        "name": "sparkle.png",
+                                        "hash": "fd3426f1c083cfa8af1fd8c6e657a15f",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-10-16T00:00:23",
+                                        "name": "Particles Mesh.mesh",
+                                        "hash": "9cf6125d8ce9ba874fe0ff27b21b2323",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-10-16T00:18:33",
+                                        "name": "Particles Emitter Material.lsmat",
+                                        "hash": "07346ab599a5fcb17e4035a265d74f73",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-10-16T00:00:23",
+                                        "name": "Particles Texture.png",
+                                        "hash": "b4bcc9a3107b386b1f0b32d6c40455ef",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-10-16T00:00:23",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
                             },
                             {
                                 "isFolder": "false",
@@ -2983,12 +3165,133 @@
                         "publicId": "18446744073709551615",
                         "source": "",
                         "additional": ""
+                    },
+                    {
+                        "name": "Particles",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "47",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Particles Mesh",
+                                "type": "3",
+                                "subtype": "0",
+                                "resourceId": "153",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1665892823540132:1494802",
+                                "fileId": "163",
+                                "originalId": "18446744073709551615",
+                                "publicId": "48",
+                                "source": "\/Users\/ashk\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudiohftQikdbgowO\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                "additional": {
+                                    "originalAttribs": {
+                                        "vertexAttribs": [
+                                            {
+                                                "semantic": "position",
+                                                "format": "0",
+                                                "index": "0"
+                                            },
+                                            {
+                                                "semantic": "color",
+                                                "format": "2",
+                                                "index": "1"
+                                            },
+                                            {
+                                                "semantic": "texture0",
+                                                "format": "2",
+                                                "index": "2"
+                                            }
+                                        ]
+                                    },
+                                    "info": {
+                                        "vertexAttribs": [
+                                            {
+                                                "semantic": "position",
+                                                "format": "0",
+                                                "canBeDisabled": "false"
+                                            },
+                                            {
+                                                "semantic": "color",
+                                                "format": "2",
+                                                "canBeDisabled": "true"
+                                            },
+                                            {
+                                                "semantic": "texture0",
+                                                "format": "2",
+                                                "canBeDisabled": "true"
+                                            }
+                                        ],
+                                        "hasBlendShapes": "false"
+                                    }
+                                }
+                            },
+                            {
+                                "name": "Particles Emitter Material",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "154",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1665892823623705:1494812",
+                                "fileId": "165",
+                                "originalId": "166",
+                                "publicId": "49",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Particles Texture",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "155",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1665892823733775:1494825",
+                                "fileId": "167",
+                                "originalId": "168",
+                                "publicId": "50",
+                                "source": "\/Users\/ashk\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudiohftQikdbgowO\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": {
+                                    "originHash": "b4bcc9a3107b386b1f0b32d6c40455ef",
+                                    "subtype": "9"
+                                }
+                            },
+                            {
+                                "name": "sparkle",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "156",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1665893128800491:1499003",
+                                "fileId": "171",
+                                "originalId": "172",
+                                "publicId": "51",
+                                "source": "\/Users\/ashk\/Desktop\/AR_appleTree\/AR_ApplePicking\/sparkle.png",
+                                "additional": {
+                                    "originHash": "fd3426f1c083cfa8af1fd8c6e657a15f"
+                                }
+                            }
+                        ]
                     }
                 ]
             }
         },
         "InspectorController": {
-            "selection": ""
+            "selection": {
+                "objects": [
+                    "1665864410946439:244168"
+                ]
+            }
         },
         "EffectsController": {
             "1": "",
@@ -3838,6 +4141,108 @@
                                     "settings_hash": "2049"
                                 },
                                 "v": "150"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1665892823540132:1494802",
+                    "v": {
+                        "infos": {
+                            "originalSize": "19744",
+                            "compressedSize": "19744",
+                            "originalRAM": "59940",
+                            "compressedRAM": "59940",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "0",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "color",
+                                            "format": "2",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "2",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "164",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1665892823733775:1494825",
+                    "v": {
+                        "infos": {
+                            "originalSize": "6343",
+                            "compressedSize": "2042",
+                            "originalRAM": "65536",
+                            "compressedRAM": "65536",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "1",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "169",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "b4bcc9a3107b386b1f0b32d6c40455ef",
+                                    "settings_hash": "1024"
+                                },
+                                "v": "170"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1665893128800491:1499003",
+                    "v": {
+                        "infos": {
+                            "originalSize": "416173",
+                            "compressedSize": "85992",
+                            "originalRAM": "998704",
+                            "compressedRAM": "125840",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "173",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "fd3426f1c083cfa8af1fd8c6e657a15f",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "174"
                             }
                         ]
                     }
