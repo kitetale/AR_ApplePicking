@@ -3,7 +3,7 @@
     "document_id": "4evVZ8Gq5pE_HQFyuULN",
     "original_document_id": "uD8Mht1sQzFRghx9mVbo",
     "version": "29",
-    "lastChanged": "1665894432136",
+    "lastChanged": "1665896870543",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -53,6 +53,10 @@
                     [
                         "Particles",
                         "Particles Texture"
+                    ],
+                    [
+                        "Particles",
+                        "hand Particle Emitter Material"
                     ],
                     [
                         "Particles",
@@ -218,6 +222,9 @@
                     ],
                     [
                         "left hand tracking"
+                    ],
+                    [
+                        "particleAdd"
                     ]
                 ]
             ]
@@ -241,7 +248,7 @@
         "PreviewUiComponent": {
             "preview_descriptor": {
                 "is_capture": "0",
-                "camera_type": "1"
+                "camera_type": "2"
             },
             "show_snap_ui": "true",
             "show_sponsored_ui": "false",
@@ -280,7 +287,7 @@
             "mapPinPoints": ""
         },
         "Material::UiComponent": {
-            "active_graph_asset": "1665862363450799:93870"
+            "active_graph_asset": "1665895234386387:1657552"
         },
         "Script::UiComponent": {
             "active_graph_asset": "-1:-1"
@@ -715,6 +722,22 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
+                },
+                {
+                    "resId": "157",
+                    "uid": "1665894859987933:1586827",
+                    "name": "Files\/File175.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "158",
+                    "uid": "1665895234386387:1657552",
+                    "name": "Files\/File176",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -773,6 +796,20 @@
                                     "attachTop": "false"
                                 }
                             }
+                        },
+                        {
+                            "k": "1665895196840364:1647912",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
                         }
                     ],
                     "generalData": ""
@@ -805,7 +842,9 @@
                 "21": "1665892824430122:1494834",
                 "22": "1665893932109461:1514091",
                 "23": "1665894178884717:1537770",
-                "24": "1665894178885821:1537772"
+                "24": "1665894178885821:1537772",
+                "25": "1665895196813688:1647476",
+                "26": "1665895196826212:1647688"
             }
         },
         "LayerComponent": {
@@ -1251,6 +1290,18 @@
                 {
                     "k": "174",
                     "v": "Files\/File174.pvr"
+                },
+                {
+                    "k": "175",
+                    "v": "Files\/File175.js"
+                },
+                {
+                    "k": "176",
+                    "v": "Files\/File176"
+                },
+                {
+                    "k": "177",
+                    "v": "Files\/File177.lsmat"
                 }
             ]
         },
@@ -1460,6 +1511,14 @@
                     {
                         "k": "51",
                         "v": "Particles\/sparkle.png"
+                    },
+                    {
+                        "k": "52",
+                        "v": "particleAdd.js"
+                    },
+                    {
+                        "k": "53",
+                        "v": "Particles\/hand Particle Emitter Material.lsmat"
                     }
                 ],
                 "hashes": [
@@ -1585,7 +1644,7 @@
                     },
                     {
                         "k": "41",
-                        "v": "765f18d680cab4f9deb939ac04764f42"
+                        "v": "4231f2a938a7fcb25152d8eefd7bfb6c"
                     },
                     {
                         "k": "42",
@@ -1601,7 +1660,7 @@
                     },
                     {
                         "k": "45",
-                        "v": "e75de7f736cd170c8987a14f3be64b1a"
+                        "v": "3570d6dc973f4e62c8bca815478db6e2"
                     },
                     {
                         "k": "46",
@@ -1622,14 +1681,22 @@
                     {
                         "k": "51",
                         "v": "fd3426f1c083cfa8af1fd8c6e657a15f"
+                    },
+                    {
+                        "k": "52",
+                        "v": "044d2ca5936546c00a1b5100315fe4ee"
+                    },
+                    {
+                        "k": "53",
+                        "v": "b7a6d6ab6ef635795414ba75f7412b9a"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2022-10-16T00:00:23",
+                        "lastModified": "2022-10-16T01:02:19",
                         "name": "Public",
-                        "hash": "ddaa1f60da8a91a5bc2f320d858a12d6",
+                        "hash": "f4205a0c8e7547b3d329cd86ce699e59",
                         "children": [
                             {
                                 "isFolder": "true",
@@ -1683,24 +1750,31 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2022-10-15T23:01:34",
+                                "lastModified": "2022-10-16T00:33:30",
                                 "name": "applePicking.js",
-                                "hash": "765f18d680cab4f9deb939ac04764f42",
+                                "hash": "4231f2a938a7fcb25152d8eefd7bfb6c",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2022-10-15T23:01:49",
+                                "lastModified": "2022-10-16T01:02:19",
                                 "name": "appleOnHand.js",
-                                "hash": "e75de7f736cd170c8987a14f3be64b1a",
+                                "hash": "3570d6dc973f4e62c8bca815478db6e2",
                                 "children": ""
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2022-10-16T00:24:36",
+                                "lastModified": "2022-10-16T00:51:42",
                                 "name": "Particles",
-                                "hash": "e4b76fc47e31d15de9de031aff797d2b",
+                                "hash": "f9ca94da0a92ca7ae9df13c6363f1993",
                                 "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-10-16T00:51:01",
+                                        "name": "hand Particle Emitter Material.lsmat",
+                                        "hash": "b7a6d6ab6ef635795414ba75f7412b9a",
+                                        "children": ""
+                                    },
                                     {
                                         "isFolder": "false",
                                         "lastModified": "2022-10-16T00:05:06",
@@ -1868,6 +1942,13 @@
                                         "children": ""
                                     }
                                 ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-10-16T00:37:21",
+                                "name": "particleAdd.js",
+                                "hash": "044d2ca5936546c00a1b5100315fe4ee",
+                                "children": ""
                             },
                             {
                                 "isFolder": "false",
@@ -3280,16 +3361,50 @@
                                 "additional": {
                                     "originHash": "fd3426f1c083cfa8af1fd8c6e657a15f"
                                 }
+                            },
+                            {
+                                "name": "hand Particle Emitter Material",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "158",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1665895234386387:1657552",
+                                "fileId": "176",
+                                "originalId": "177",
+                                "publicId": "53",
+                                "source": "",
+                                "additional": ""
                             }
                         ]
+                    },
+                    {
+                        "name": "particleAdd",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "157",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1665894859987933:1586827",
+                        "fileId": "175",
+                        "originalId": "18446744073709551615",
+                        "publicId": "52",
+                        "source": "\/Users\/ashk\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudiohftQikdbgowO\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
                     }
                 ]
             }
         },
         "InspectorController": {
             "selection": {
-                "objects": [
-                    "1665864410946439:244168"
+                "resources": [
+                    {
+                        "uid": "1665892823623705:1494812",
+                        "path_list": [
+                            "Particles",
+                            "Particles Emitter Material"
+                        ]
+                    }
                 ]
             }
         },
